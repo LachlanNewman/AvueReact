@@ -1,0 +1,391 @@
+export const about = {
+	header: {
+		title: 'OUR APPROACH',
+		subTitle: 'DEFINE - PLAN - EXECUTE - OPERATE\n EFFICIENT SUSTAINABLE SOLUTIONS DELIVERING YOUR BUSINESS'
+	},
+	items: [
+		{
+			id: 0,
+			title: 'REQUIREMENTS STRATEGY & TCO',
+			subTitle: 'Working with your business we develop the strategy and TCO',
+			text: 'Avue brings a business discipline to the evolution of a concept through the lifecycle ' +
+			'of investment planning. Our team is skilled and adept to undertake efficient low cost feasibility' +
+			' study\'s across multiple options. The model allows us to utilise industry benchmarks, targeted ' +
+			'financial modelling, data analysis, delivery strategy and constraint frameworks to present viable ' +
+			'options. The moving the agreed option into the investment planning and business case development.',
+			img: './assets/images/Strategy.jpg',
+		},
+		{
+			id: 1,
+			title: 'SOLUTION DEVELOPMENT & PLAN\n',
+			subTitle: 'Leveraging our resources and partners, your staff and suppliers we develop the solution',
+			text: 'Our market presence allows us to use our own resources and leverage an extensive network of ' +
+			'partners to deliver effective solution development to support your business need. Our capability ' +
+			'allows us to help organisations to meet their business objectives by deploying effective technology ' +
+			'and business solutions to drive operational efficiencies, customer value and ultimately profitability. ',
+			img: './assets/images/Solution.jpg',
+		},
+		{
+			id: 2,
+			title: 'TRANSFORMATION & TRANSITION',
+			subTitle: 'Managing all components we deliver the solution',
+			text: 'Through the practical application of the project management philosophy, we  possess substantial ' +
+			'transformation and transition methodologies all designed to be adjusted  to meet the individual ' +
+			'organisational demands. We understand the complexity of organisational change, and although our ' +
+			'capability is well advanced, we leverage our partners to bring together the industry experts and ' +
+			'the best resources to a particular engagement. ',
+			img: './assets/images/Transformation.jpg',
+		},
+		{
+			id: 3,
+			title: 'MANAGED OPERATION',
+			subTitle: 'Transitioned to our managed service we continue to ensure benefits are achieved',
+			text: 'To ensure continued benefit realisation we offer a managed service to fully support the solution. ' +
+			'On a sustained  basis we leverage technology capability and flexible processes that automate key client ' +
+			'transactions and interactions. By removing the operational burdens, you can focus on core business and ' +
+			'customer support services with an improved TCO. ',
+			img: './assets/images/Managed_Operation.jpg',
+		},
+
+	]
+
+};
+
+export const solutions = {
+	header: {
+		title: 'Integrated Solutions',
+		subTitle: 'BUSINESS AND TECHNOLOGY EXPERTISE TO LEVERAGE INNOVATIVE\n BUSINESS IDEAS AND SUPPORTING TECHNOLOGY'
+	},
+	items: [
+		{
+			id: 0,
+			title: 'Mobility',
+			subTitle: 'Protecting your investment and information through effective security full service operations',
+			text: 'The evolution of a mobile and flexible workforce combined with changing business drivers,' +
+			' makes Mobility a key element for any workforce or customer interaction. Mobility is about ' +
+			'driving value within your company by leveraging and utilising existing data infrastructure ' +
+			'and external API’s to attract new prospects and provide more value to your work force and customers.  ' +
+			'We can provide access to the right skills and expertise to achieve enormous commercial gains by ' +
+			'adopting and exploiting enterprise mobility solutions. ',
+			img: './assets/images/Mobility.jpg',
+		},
+		{
+			id: 1,
+			title: 'Analytics',
+			subTitle: 'ITIL based managed services and delivering sustained TCO',
+			text: 'Most organisations over the past two decades have acquired data and information which when' +
+			' ethically exploited has the potential to enhance all aspects of the business and improve customer ' +
+			'interaction.  Our people and partners are well versed in the business process and technology ' +
+			'required to unlock the information potential and benefits from the data your organisation already ' +
+			'possesses.  ',
+			img: './assets/images/Analytics.jpg',
+
+		},
+		{
+			id: 2,
+			title: 'Automation',
+			subTitle: 'Protecting your investment and information through effective security full service operations',
+			text: 'Automation is synonymous with productivity improvements and generally this is correct, ' +
+			'however if deployed correctly in the right environment it has a far broader impact and has the ' +
+			'potential to drive a positive consumer  experience. We are well positioned to lead a number of ' +
+			'vertical markets such as finance, transport, health and  government for example, through the ' +
+			'automation journey.  Our approach is consultative  and supported by business process and technology. ',
+			img: './assets/images/Security.jpg',
+		},
+		{
+			id: 3,
+			title: 'Collaboration',
+			subTitle: 'ITIL based managed services and delivering sustained TCO',
+			text: 'Collaboration in a dispersed environment can be challenging without the appropriate tools, ' +
+			'openness, willingness to share knowledge and sufficient governance. We work with organisations to ' +
+			'identify and remove the key barriers. We have the ability to deploy collaborative systems and eco ' +
+			'environments that not only draw together internal resources but gain access to expertise from like ' +
+			'minded communities where there is common interest.',
+			img: './assets/images/Collaboration.jpg',
+
+		}, {
+			id: 4,
+			title: 'Workflow',
+			subTitle: 'Protecting your investment and information through effective security full service operations',
+			text: 'Well defined work flow is a critical element to achieve the effectiveness and efficiency of ' +
+			'any business process. We work with our clients to ensure the movement of any business transaction ' +
+			'is effective and in-line with internal and external expectations. It is also the first step to ' +
+			'automation however just because it can be automated does not mean it should be, our experts have ' +
+			'the experience and technical know how to deliver effective workflow in support of a manual, ' +
+			'semi-manual or automated business process. ',
+			img: './assets/images/Workflow.jpg',
+		},
+		{
+			id: 5,
+			title: 'Reporting',
+			subTitle: 'ITIL based managed services and delivering sustained TCO',
+			text: 'Enterprise reporting is a critical component of any organisation, whether for statutory and ' +
+			'fiscal compliance, or operating requirements to effectively manage and support decision-making ' +
+			'within an organisation.  We are well versed in defining and implementing reporting solutions ' +
+			'that involve disparate systems and data repositories, unified reporting provides effective ' +
+			'business intelligence and facilitates dissemination of information and knowledge transfer.  ',
+			img: './assets/images/Reporting.jpg',
+
+		}
+
+	]
+
+};
+
+
+export const service = {
+	header: {
+		title: 'SUPPORT AND SERVICE',
+		subTitle: 'THE INVESTMENT AND BENEFIT IS PROTECTED BY OUR SECURE AND SUSTAINABLE MANAGED ENVIRONMENT'
+	},
+	items: [
+		{
+			id: 0,
+			title: 'SECURITY',
+			subTitle: 'Protecting your investment and information through effective security full service operations',
+			text: 'Protecting your investment and information through effective security full service operations;' +
+			'secure, defendable, contained, managed and  predictive. ',
+			img: './assets/images/Security.jpg',
+		},
+		{
+			id: 1,
+			title: 'CONTINUED SUPPORT AND SERVICE',
+			subTitle: 'ITIL based managed services and delivering sustained TCO',
+			text: 'Ensuring ongoing benefit realisation through ITIL based managed services and delivery of ' +
+			'sustained TCO for multiple environments.  Addressing applications and system capacity for current' +
+			' and future access to corporate information and integrated solutions.',
+			img: './assets/images/Support.jpg',
+
+		}
+	]
+
+};
+
+
+export const contact = {
+	header: {
+		title: 'MELBOURNE - SYDNEY - NEWCASTLE',
+		subTitle: 'avue can assist you to achieve your business and technology objectives'
+	}
+};
+
+
+export const work = [
+	{
+		header: {
+			title: 'Business Systems Transformation',
+			subTitle: ''
+		},
+		items: [
+			{
+				title: 'Financial Systems/ERP',
+				text: 'Program accountability as part of the Finance 2020 strategy to address the four ' +
+				'pillars which contribute to the effectiveness of enterprise decision making. Once re-engineered ' +
+				'and deployed it will impact the profitability of the $26B organisation. The program through ' +
+				'effective business process redesign use of ERP/Business Intelligence and supporting business ' +
+				'process, delivered key business financial and operational metrics to support the corporate ' +
+				'strategy and decision making.',
+				img: './assets/images/casestudies/Business_Transformation.jpg',
+
+			},
+			{
+				title: 'Financial Systems/ERP',
+				text: 'Program accountability as part of the Finance 2020 strategy to address the four ' +
+				'pillars which contribute to the effectiveness of enterprise decision making. Once re-engineered ' +
+				'and deployed it will impact the profitability of the $26B organisation. The program through ' +
+				'effective business process redesign use of ERP/Business Intelligence and supporting business ' +
+				'process, delivered key business financial and operational metrics to support the corporate ' +
+				'strategy and decision making.',
+				img: './assets/images/casestudies/Business_Transformation.jpg',
+
+			},
+			{
+				title: 'Operational Systems/ERP',
+				text: 'Delivery of enterprise wide physical measures (product and service) as lead indicators of' +
+				' revenue and profitability. The key stakeholders/consumers, CEO, “C” level executives, internal' +
+				' monthly sales reporting and external financial corporate governance. Overall accountably for ' +
+				'business requirements, business process, redesign of source systems, application modifications ' +
+				'and  optimising SAP ERP environment including leveraging Business Intelligence for timely and ' +
+				'effective information delivery. ',
+				img: './assets/images/casestudies/Business_Transformation.jpg',
+
+			},
+			{
+				title: 'Financial and Operational Systems',
+				text: 'The overall accountability for the redevelopment and re-engineering of the "Financial ' +
+				'Planning and Forecasting" process and the supporting IT systems and applications.  ' +
+				'The planning and forecasting addressed the enterprise wide capital plan, operational ' +
+				'expenditure as well as planed revenue.',
+				img: './assets/images/casestudies/Business_Transformation.jpg',
+
+			}
+		]
+	},
+	{
+		header: {
+			title: 'Business Process and Governance',
+			subTitle: ''
+		},
+		items: [
+			{
+				title: 'Program Office Establishment',
+				subTitle: 'Program and CRM systems',
+				text: '	Establishment of a program office function to support a sales and services ' +
+				'division with $5.5B annual revenue. The methodology is designed to facilitate Network ' +
+				'and Application sales, focusing on identifying compelling events, benefit ' +
+				'identification and benefit realisation. The process addresses delivery of services ' +
+				'with products as enablers.',
+				img: './assets/images/casestudies/Business_Process.jpg',
+
+			},
+			{
+				title: 'Business Reengineering',
+				subTitle: 'Sales and CRM systems',
+				text: 'Overall accountability for business reengineering program to fundamentally shift ' +
+				'the sales organisation from product selling to service offerings and outsourcing. The ' +
+				'program covered client engagement, tender responses, client proposal development, value ' +
+				'proposition/compelling events, client ROI and internal business case.',
+				img: './assets/images/casestudies/Business_Process.jpg',
+
+			},
+			{
+				title: 'Standards and Process Optimisation',
+				subTitle: 'Telecommunications Provider',
+				text: 'Created capacity and implementation planning processes, tools and procedures,' +
+				' for the deployment of large quantities of fibre cable within 100+ major locations. ' +
+				'Achieved immediate quality improvements Established lasting process and procedures ' +
+				'Developed structured cabling standards for 10 data centres and core network locations ',
+				img: './assets/images/casestudies/Business_Process.jpg',
+
+			},
+			{
+				title: 'Back-office Finance Outsource',
+				text: 'To meet CEO external commitments, the rapid implementation of supporting systems ' +
+				'and secure access was required to support the off-shore outsource of back-office finance.',
+				img: './assets/images/casestudies/Business_Process.jpg',
+
+			}
+		]
+	},
+	{
+		header: {
+			title: 'Application Development',
+			subTitle: ''
+		},
+		items: [
+			{
+				title: 'Systems to support Departmental Reform',
+				text: '	The implementation of multiple IT systems and applications to support the Departmental Reform in Victoria.  The program covered many departments and disparate business functions.  It included multiple stakeholders, agile and waterfall application development, business process definition, workflow implementation, document categorisation cataloguing and scanning.  There was extensive end-user involvement in the systems definition, establishment of secure environments, critical implementation deadlines, end-user testing and transition to BAU.'
+				, img: './assets/images/casestudies/Application_Development.jpg'
+
+			},
+			{
+				title: 'Community Information Systems',
+				text: 'The rapid development of a government emergency management mobile app and website, supporting 330,000+ concurrent users during periods of peak load. The program included extensive community and stakeholder engagement, management of the media, user centred design, rapid agile application development, data source and systems remediation.  The highly available design operated successfully for 3+ years.'
+				, img: './assets/images/casestudies/Application_Development.jpg'
+
+			},
+			{
+				title: 'SWIFT Annual Systems Upgrade ',
+				text: 'Remediation of the in-flight annual systems upgrade project for the mission critical SWIFT inter-bank transaction system.  Critical cutover and migration dates were achieved through applying: governance, management, alignment of infrastructure and software projects, risk mitigation, controlled migration and roll-back planning. '
+				, img: './assets/images/casestudies/Application_Development.jpg'
+
+			}
+		]
+	},
+	{
+		header: {
+			title: 'Technology Uplift and Transformation',
+			subTitle: ''
+		},
+		items: [
+			{
+				title: 'Virtual Chief Information Officer',
+				subTitle: 'Financial Services',
+				text: 'CIO supporting the venture capital purchase and incoming appointed C-level executives.  Accountable for IT Strategy, transformation, capability uplift and staff augmentation.  This included ongoing management and delivery of four critical programs:\n' +
+				'- Information Security Strategy delivering rapid uplift in data protection (3 phases over 3 years).\n' +
+				'- Telecommunications program achieving annual recurring savings in excess of $1m.\n' +
+				'- A rapid data centre migration to improve application stability and individually migrate 200 clients using B2B services.\n' +
+				'- Data Centre Migration to improve application stability, scalability, security and disaster recovery.'
+				, img: './assets/images/casestudies/Technology_Transformation.jpg'
+
+			},
+			{
+				title: 'Large Scale Technology Replacement',
+				subTitle: 'Major Retailer',
+				text: 'Business case and program to urgently address an increasing decline in business service levels resulting from failing technology assets across 1,100 locations.  The program included go-to-market for replacement equipment, rollout and migration planning, application testing and integration.'
+				, img: './assets/images/casestudies/Technology_Transformation.jpg'
+
+			},
+			{
+				title: 'Business Decentralisation',
+				subTitle: 'Government Agency',
+				text: 'Multi-year program decentralising central head office and relocating to ' +
+				'metropolitan and regional offices. The program included preparation of the IT ' +
+				'business case, program scope and budgets, as supporting input to Deloitte for ' +
+				'submission to Victorian Cabinet. This was followed by the management of the ' +
+				'multi-year technology program for the establishment of four new office buildings, ' +
+				'staff relocation and two data centres.'
+				, img: './assets/images/casestudies/Technology_Transformation.jpg'
+
+			},
+			{
+				title: 'IT Transformation',
+				subTitle: 'Financial Services',
+				text: 'Accountability for the definition, mobilisation, governance and execution of the organisation’s highest priority IT initiatives over a 3 ½ year period. These included regulatory initiatives, customer facing systems, major corporate buildings, technology outsourcing and internal systems.'
+				, img: './assets/images/casestudies/Technology_Transformation.jpg'
+
+			},
+			{
+				title: 'Cloud Computing Migration',
+				subTitle: 'Aged Care Provider',
+				text: 'An acquisition and growth strategy required the seamless migration of multiple duplicated business systems to an outsourced environment.'
+				, img: './assets/images/casestudies/Technology_Transformation.jpg'
+
+			}
+		]
+	},
+	{
+		header: {
+			title: 'Staff Communications',
+			subTitle: ''
+		},
+		items: [
+			{
+				title: 'Training Academy',
+				subTitle: 'Financial Services',
+				text: 'Alignment of business requirements to audio visual technologies for the implementation of a flagship training facility.  Achieving a balance between practicality, training and atmosphere impact requirements.'
+				, img: './assets/images/casestudies/Staff_Communication.jpg'
+
+			},
+			{
+				title: 'Unified Communication Strategy',
+				subTitle: 'University',
+				text: 'Review of the internal communications requirements of all faculties, staff and students, followed by an assessment of the current state of IT infrastructure and definition of the multi-year roadmap to achieve a unified environment. '
+				, img: './assets/images/casestudies/Staff_Communication.jpg'
+
+			},
+			{
+				title: 'Staff Communication Strategy',
+				subTitle: 'Financial Services',
+				text: 'Digital media strategy to address senior executive internal communications requirements, assessing the current environment and defining the strategy and roadmap for delivery of on-demand corporate video communication to staff at 350+ locations. '
+				, img: './assets/images/casestudies/Staff_Communication.jpg'
+
+			},
+			{
+				title: 'IT Transformation',
+				subTitle: 'Financial Services',
+				text: 'Accountability for the definition, mobilisation, governance and execution of the organisation’s highest priority IT initiatives over a 3 ½ year period. These included regulatory initiatives, customer facing systems, major corporate buildings, technology outsourcing and internal systems.'
+				, img: './assets/images/casestudies/Staff_Communication.jpg'
+
+			},
+			{
+				title: 'Cloud Computing Migration',
+				subTitle: 'Aged Care Provider',
+				text: 'An acquisition and growth strategy required the seamless migration of multiple duplicated business systems to an outsourced environment.'
+				, img: './assets/images/casestudies/Staff_Communication.jpg'
+
+			}
+		]
+	}
+]

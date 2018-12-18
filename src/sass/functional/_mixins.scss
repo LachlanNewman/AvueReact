@@ -1,0 +1,55 @@
+/* Created : 14:16 11/12/2018
+   Created By : lachn
+   _mixins - OPEN
+*/
+
+// Break Points
+@mixin breakpoint($point) {
+      @if $point == desktop {
+            @media (min-width: $breakpoint__size--xl) { @content ; }
+      }
+      @else if $point == laptop {
+            @media (min-width: $breakpoint__size--lg) { @content ; }
+      }
+      @else if $point == tablet {
+            @media (min-width: $breakpoint__size--md) { @content ; }
+      }
+      @else if $point == phablet {
+            @media (min-width: $breakpoint__size--sm)  { @content ; }
+      }
+      @else if $point == mobileonly {
+            @media (min-width: $breakpoint__size--xs)  { @content ; }
+
+      }
+}
+
+@mixin max-breakpoint($point) {
+      @if $point == desktop {
+            @media (max-width: ($breakpoint__size--xl - 1)) { @content ; }
+      }
+      @else if $point == laptop {
+            @media (max-width: ($breakpoint__size--lg - 1)) { @content ; }
+      }
+      @else if $point == tablet {
+            @media (max-width: ($breakpoint__size--md - 1)) { @content ; }
+      }
+      @else if $point == phablet {
+            @media (max-width: ($breakpoint__size--sm - 1))  { @content ; }
+      }
+      @else if $point == mobileonly {
+            @media (max-width: ($breakpoint__size--xs - 1))  { @content ; }
+
+      }
+}
+@mixin custom-breakpoint($bp){
+      @media (min-width: $bp)  { @content ; }
+}
+
+// Flex Box Mixin
+@mixin center-content(){
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+/* _mixins - CLOSE */

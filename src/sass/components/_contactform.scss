@@ -1,0 +1,21 @@
+/* Created : 19:17 15/12/2018
+   Created By : lachn
+   _contactform - OPEN
+*/
+
+.contact-form{
+      padding: 0 $page-margin-mobile;
+      @include breakpoint(phablet) {
+            padding: 0px $page-margin;
+      }
+      &__row{
+            display: flex;
+            margin-bottom: 10px;
+
+            input + input {
+                  margin-left: 10px;
+            }
+      }
+}
+
+/* _contactform - CLOSE */

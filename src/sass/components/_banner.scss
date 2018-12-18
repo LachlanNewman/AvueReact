@@ -1,0 +1,44 @@
+/* Created : 22:18 14/12/2018
+   Created By : lachn
+   _banner - OPEN
+*/
+
+.main{
+      $id: &;
+
+      #{$id}__header{
+            background-color: $color__blue--dark;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 11px $page-margin-mobile;
+            @include breakpoint(phablet) {
+                  padding: 11px 3em;
+            }
+
+            #{$id}__site-logo{
+                  height: 100%;
+                  width: 10%;
+                  img{
+                        width: 100%;
+                        height: auto;
+                  }
+            }
+
+            #{$id}__title{
+                  color: $color__white;
+
+                  h1 {
+                        text-align: right;
+                  }
+            }
+      }
+
+      #{$id}__banner{
+            img{
+                  width: 100%;
+            }
+      }
+}
+
+/* _banner - CLOSE */

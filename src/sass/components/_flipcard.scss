@@ -48,9 +48,11 @@
             transform-style: preserve-3d;
             width: 100%;
             border: 1px solid $color__white;
+            text-align: center;
             @include breakpoint(mobileonly){
                   border: none;
                   width: 50%;
+                  text-align: left;
             }
 
             h2 {
@@ -58,6 +60,9 @@
             }
             h4, p {
                   color: $color__blue--light
+            }
+            h2,h4{
+                  text-transform: uppercase;
             }
       }
 
@@ -99,7 +104,7 @@
             flex-direction: column;
             display: flex;
             justify-content: center;
-            background-color: rgba(0, 0, 0, 0.5);
+            background-color: rgba(0, 0, 0, 0.8);
             padding: 0 $page-margin-mobile;
             @include breakpoint(mobileonly) {
                   background-color: transparent;

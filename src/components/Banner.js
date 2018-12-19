@@ -1,53 +1,64 @@
 import React from 'react';
-import Slider from "react-slick";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import {Carousel} from 'react-responsive-carousel';
 
-const Banner = (props) => {
+class Banner extends React.Component {
 
-	const settings = {
-		slidesToShow: 1,
-		slidesToScroll: 1
+
+	render() {
+
+		const options = {
+				autoplay: true,
+				showArrows: false,
+				showIndicators: false,
+				showThumbs: false,
+				showStatus: false
+			}
+		;
+
+		return (
+			<section className="main">
+				<div className="main__header">
+					<a className="main__site-logo">
+						<img src={this.props.logoSrc} alt=""/>
+					</a>
+					<div className="main__title">
+						<h1>{this.props.title}</h1>
+					</div>
+				</div>
+
+				<Carousel {...options}>
+					<div>
+						{
+
+							this.props.bannerSrc ?
+								<img src={this.props.bannerSrc}
+								     alt="Achieving Business Outcomes"/> :
+								null
+						}
+					</div>
+					<div>
+						{
+
+							this.props.bannerSrc ?
+								<img src={this.props.bannerSrc}
+								     alt="Achieving Business Outcomes"/> :
+								null
+						}
+					</div>
+					<div>
+						{
+
+							this.props.bannerSrc ?
+								<img src={this.props.bannerSrc}
+								     alt="Achieving Business Outcomes"/> :
+								null
+						}
+					</div>
+				</Carousel>
+			</section>
+		)
 	}
-
-	return (
-		<section className="main">
-			<div className="main__header">
-				<a className="main__site-logo">
-					<img src={props.logoSrc} alt=""/>
-				</a>
-				<div className="main__title">
-					<h1>{props.title}</h1>
-				</div>
-			</div>
-
-			<Slider {...settings} className="main__banner"
-				>
-				<div>
-				{
-
-					props.bannerSrc ?
-					<img src={props.bannerSrc} alt="Achieving Business Outcomes"/>:
-					null
-				}
-				</div>
-				<div>
-					{
-
-						props.bannerSrc ?
-							<img src={props.bannerSrc} alt="Achieving Business Outcomes"/>:
-							null
-					}
-				</div>
-				<div>
-					{
-
-						props.bannerSrc ?
-							<img src={props.bannerSrc} alt="Achieving Business Outcomes"/>:
-							null
-					}
-				</div>
-			</Slider>
-		</section>
-	)
 };
 
 export default Banner;

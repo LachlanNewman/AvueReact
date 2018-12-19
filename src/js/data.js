@@ -9,17 +9,17 @@ export const about = {
 			title: 'REQUIREMENTS STRATEGY & TCO',
 			subTitle: 'Working with your business we develop the strategy and TCO',
 			text: 'Avue brings a business discipline to the evolution of a concept through the lifecycle ' +
-			'of investment planning. Our team is skilled and adept to undertake efficient low cost feasibility' +
-			' study\'s across multiple options. The model allows us to utilise industry benchmarks, targeted ' +
+			'of investment planning. Our team is skilled and experienced to undertake efficient low cost feasibility' +
+			' studies across multiple options. The model allows us to utilise industry benchmarks, targeted ' +
 			'financial modelling, data analysis, delivery strategy and constraint frameworks to present viable ' +
-			'options. The moving the agreed option into the investment planning and business case development.',
+			'options, progressing the agreed option into the investment planning and business case development.',
 			img: './assets/images/Strategy.jpg',
 		},
 		{
 			id: 1,
 			title: 'SOLUTION DEVELOPMENT & PLAN\n',
 			subTitle: 'Leveraging our resources and partners, your staff and suppliers we develop the solution',
-			text: 'Our market presence allows us to use our own resources and leverage an extensive network of ' +
+			text: 'Our market presence allows us to use our own expertise and leverage an extensive network of ' +
 			'partners to deliver effective solution development to support your business need. Our capability ' +
 			'allows us to help organisations to meet their business objectives by deploying effective technology ' +
 			'and business solutions to drive operational efficiencies, customer value and ultimately profitability. ',
@@ -29,7 +29,7 @@ export const about = {
 			id: 2,
 			title: 'TRANSFORMATION & TRANSITION',
 			subTitle: 'Managing all components we deliver the solution',
-			text: 'Through the practical application of the project management philosophy, we  possess substantial ' +
+			text: 'Through the practical application of the project management discipline, we utilise our proven ' +
 			'transformation and transition methodologies all designed to be adjusted  to meet the individual ' +
 			'organisational demands. We understand the complexity of organisational change, and although our ' +
 			'capability is well advanced, we leverage our partners to bring together the industry experts and ' +
@@ -60,7 +60,7 @@ export const solutions = {
 		{
 			id: 0,
 			title: 'Mobility',
-			subTitle: 'Protecting your investment and information through effective security full service operations',
+			subTitle: 'THE EVOLUTION OF A MOBILE AND FLEXIBLE WORKFORCE',
 			text: 'The evolution of a mobile and flexible workforce combined with changing business drivers,' +
 			' makes Mobility a key element for any workforce or customer interaction. Mobility is about ' +
 			'driving value within your company by leveraging and utilising existing data infrastructure ' +
@@ -72,7 +72,7 @@ export const solutions = {
 		{
 			id: 1,
 			title: 'Analytics',
-			subTitle: 'ITIL based managed services and delivering sustained TCO',
+			subTitle: 'MOST ORGANISATIONS OVER THE PAST TWO DECADES HAVE ACQUIRED DATA AND INFORMATION',
 			text: 'Most organisations over the past two decades have acquired data and information which when' +
 			' ethically exploited has the potential to enhance all aspects of the business and improve customer ' +
 			'interaction.  Our people and partners are well versed in the business process and technology ' +
@@ -84,7 +84,7 @@ export const solutions = {
 		{
 			id: 2,
 			title: 'Automation',
-			subTitle: 'Protecting your investment and information through effective security full service operations',
+			subTitle: 'AUTOMATION IS SYNONYMOUS WITH PRODUCTIVITY IMPROVEMENTS' ,
 			text: 'Automation is synonymous with productivity improvements and generally this is correct, ' +
 			'however if deployed correctly in the right environment it has a far broader impact and has the ' +
 			'potential to drive a positive consumer  experience. We are well positioned to lead a number of ' +
@@ -94,36 +94,39 @@ export const solutions = {
 		},
 		{
 			id: 3,
-			title: 'Collaboration',
-			subTitle: 'ITIL based managed services and delivering sustained TCO',
-			text: 'Collaboration in a dispersed environment can be challenging without the appropriate tools, ' +
-			'openness, willingness to share knowledge and sufficient governance. We work with organisations to ' +
-			'identify and remove the key barriers. We have the ability to deploy collaborative systems and eco ' +
-			'environments that not only draw together internal resources but gain access to expertise from like ' +
-			'minded communities where there is common interest.',
+			title: 'Collaborative Communication',
+			subTitle: 'COLLABORATION IS ESSENTIAL TO SUPPORT TEAMS WORKING TOGETHER',
+			text: 'Collaboration is essential to support teams working together to achieve a common goal or' +
+			' for the co-ordinated delivery of service. The tracking, transfer and handover of information ' +
+			'throughout a process in a dispersed environment can be challenging without the appropriate tools,' +
+			' openness, and ability to share knowledge and information. We work with organisations to identify' +
+			' and remove the key barriers, deploying collaborative systems and eco environments that not only' +
+			' draw together internal resources but extend engagement with to like minded ' +
+			'communities where there is common interest and benefit.',
 			img: './assets/images/Collaboration.jpg',
 
 		}, {
 			id: 4,
 			title: 'Workflow',
-			subTitle: 'Protecting your investment and information through effective security full service operations',
-			text: 'Well defined work flow is a critical element to achieve the effectiveness and efficiency of ' +
-			'any business process. We work with our clients to ensure the movement of any business transaction ' +
-			'is effective and in-line with internal and external expectations. It is also the first step to ' +
-			'automation however just because it can be automated does not mean it should be, our experts have ' +
-			'the experience and technical know how to deliver effective workflow in support of a manual, ' +
-			'semi-manual or automated business process. ',
+			subTitle: 'WELL DEFINED WORK FLOW IS A CRITICAL ELEMENT TO ACHIEVE THE EFFECTIVENESS AND EFFICIENCY ',
+			text: 'Well defined work flow is a critical element to achieve the effectiveness and efficiency' +
+			' of any business process. We work with our clients to ensure the movement of any business' +
+			' transaction is effective and in-line with internal and external expectations. It is also ' +
+			'the first step to automation,  however just because it can be automated does not mean it ' +
+			'should be, our experts have the experience and technical know how to deliver effective ' +
+			'workflow in support of a manual, semi-manual or automated business process.',
 			img: './assets/images/Workflow.jpg',
 		},
 		{
 			id: 5,
 			title: 'Reporting',
-			subTitle: 'ITIL based managed services and delivering sustained TCO',
-			text: 'Enterprise reporting is a critical component of any organisation, whether for statutory and ' +
-			'fiscal compliance, or operating requirements to effectively manage and support decision-making ' +
-			'within an organisation.  We are well versed in defining and implementing reporting solutions ' +
-			'that involve disparate systems and data repositories, unified reporting provides effective ' +
-			'business intelligence and facilitates dissemination of information and knowledge transfer.  ',
+			subTitle: 'ENTERPRISE REPORTING IS A CRITICAL COMPONENT OF ANY ORGANISATION',
+			text: 'Enterprise reporting is a critical component of any organisation, whether for statutory ' +
+			'and fiscal compliance, or operating requirements to effectively manage and support ' +
+			'decision-making.  We are well versed in defining and implementing reporting solutions ' +
+			'that involve disparate systems and data repositories, unified reporting provides ' +
+			'effective business intelligence and facilitates dissemination of information and ' +
+			'knowledge transfer. ',
 			img: './assets/images/Reporting.jpg',
 
 		}
@@ -143,17 +146,14 @@ export const service = {
 			id: 0,
 			title: 'SECURITY',
 			subTitle: 'Protecting your investment and information through effective security full service operations',
-			text: 'Protecting your investment and information through effective security full service operations;' +
-			'secure, defendable, contained, managed and  predictive. ',
+			text: 'Protecting your investment and information through effective security full service operations;  secure, defendable, contained, managed and  predictive. ',
 			img: './assets/images/Security.jpg',
 		},
 		{
 			id: 1,
 			title: 'CONTINUED SUPPORT AND SERVICE',
-			subTitle: 'ITIL based managed services and delivering sustained TCO',
-			text: 'Ensuring ongoing benefit realisation through ITIL based managed services and delivery of ' +
-			'sustained TCO for multiple environments.  Addressing applications and system capacity for current' +
-			' and future access to corporate information and integrated solutions.',
+			subTitle: 'Ensuring ongoing benefit realisation through ITIL based managed services and delivery of sustained TCO for multiple environments.  Addressing applications and system capacity for access to corporate information and integrated solutions. \n',
+			text: 'Ensuring ongoing benefit realisation through ITIL based managed services and delivery of sustained TCO for multiple environments.  Addressing applications and system capacity for access to corporate information and integrated solutions.',
 			img: './assets/images/Support.jpg',
 
 		}
@@ -190,32 +190,34 @@ export const work = [
 			},
 			{
 				title: 'Financial Systems/ERP',
-				text: 'Program accountability as part of the Finance 2020 strategy to address the four ' +
-				'pillars which contribute to the effectiveness of enterprise decision making. Once re-engineered ' +
-				'and deployed it will impact the profitability of the $26B organisation. The program through ' +
-				'effective business process redesign use of ERP/Business Intelligence and supporting business ' +
-				'process, delivered key business financial and operational metrics to support the corporate ' +
-				'strategy and decision making.',
+				text: 'Accountability for business strategy and associated process redesign including ' +
+				'the SAP development of a large and highly complex program of work. The program covered ' +
+				'the full SAP suite and associated business process including the redesign of 720 ' +
+				'interfaces into 65+ systems. System development consumed 690 people effort years ' +
+				'over an elapsed time of 3 years with the physical deployment achieved over 40 days. ' +
+				'The impact was enterprise wide covering all business units, 30,000 internal employees ' +
+				'and 240 affiliated organisations.  ',
 				img: './assets/images/casestudies/CS2-Business_Transformation_195933794_l-2015.jpg',
 
 			},
 			{
 				title: 'Operational Systems/ERP',
-				text: 'Delivery of enterprise wide physical measures (product and service) as lead indicators of' +
-				' revenue and profitability. The key stakeholders/consumers, CEO, “C” level executives, internal' +
-				' monthly sales reporting and external financial corporate governance. Overall accountably for ' +
-				'business requirements, business process, redesign of source systems, application modifications ' +
-				'and  optimising SAP ERP environment including leveraging Business Intelligence for timely and ' +
-				'effective information delivery. ',
+				text: 'Delivery of enterprise wide physical measures (product and service) as lead ' +
+				'indicators of revenue and profitability. The key stakeholders/consumers included: ' +
+				'CEO, “C” level executives, it supported internal monthly sales reporting and external ' +
+				'financial corporate governance. Overall accountably for business requirements, ' +
+				'business process, redesign of source systems, application modifications and  ' +
+				'optimising SAP ERP environment including leveraging Business Intelligence for ' +
+				'timely and effective information delivery. ',
 				img: './assets/images/casestudies/CS3-Business_Transformation_31387239_l-2015.jpg',
 
 			},
 			{
 				title: 'Financial and Operational Systems',
-				text: 'The overall accountability for the redevelopment and re-engineering of the "Financial ' +
-				'Planning and Forecasting" process and the supporting IT systems and applications.  ' +
-				'The planning and forecasting addressed the enterprise wide capital plan, operational ' +
-				'expenditure as well as planed revenue.',
+				text: 'The overall accountability for the redevelopment and re-engineering of the ' +
+				'"Financial Planning and Forecasting" process including the supporting IT systems ' +
+				'and applications.  The planning and forecasting addressed the enterprise wide ' +
+				'capital plan, operational expenditure as well as planed revenue.',
 				img: './assets/images/casestudies/CS4-Business_Transformation_107695884_l-2015.jpg',
 
 			}
@@ -230,38 +232,27 @@ export const work = [
 			{
 				title: 'Program Office Establishment',
 				subTitle: 'Program and CRM systems',
-				text: '	Establishment of a program office function to support a sales and services ' +
-				'division with $5.5B annual revenue. The methodology is designed to facilitate Network ' +
-				'and Application sales, focusing on identifying compelling events, benefit ' +
-				'identification and benefit realisation. The process addresses delivery of services ' +
-				'with products as enablers.',
+				text: 'Establishment of a program office function to support all projects with the sales and services division and $5.5B annual revenue. The methodology is designed to facilitate Network and Application sales, focusing on identifying compelling events, benefit identification and benefit realisation. The process addresses delivery of services with products as enablers.',
 				img: './assets/images/casestudies/CS5-Business_Process_10445634_l-2015.jpg',
 
 			},
 			{
 				title: 'Business Reengineering',
 				subTitle: 'Sales and CRM systems',
-				text: 'Overall accountability for business reengineering program to fundamentally shift ' +
-				'the sales organisation from product selling to service offerings and outsourcing. The ' +
-				'program covered client engagement, tender responses, client proposal development, value ' +
-				'proposition/compelling events, client ROI and internal business case.',
+				text: 'Overall accountability for business reengineering program to fundamentally shift the sales organisation from product selling to service offerings and outsourcing. The program covered client engagement, tender responses, client proposal development, value proposition/compelling events, client ROI and internal business case preparation.',
 				img: './assets/images/casestudies/CS6-Business_Process_107745058_l-2015.jpg',
 
 			},
 			{
 				title: 'Standards and Process Optimisation',
 				subTitle: 'Telecommunications Provider',
-				text: 'Created capacity and implementation planning processes, tools and procedures,' +
-				' for the deployment of large quantities of fibre cable within 100+ major locations. ' +
-				'Achieved immediate quality improvements Established lasting process and procedures ' +
-				'Developed structured cabling standards for 10 data centres and core network locations ',
+				text: 'Capacity planning and implementation processes, tools and procedures, were developed to support the deployment of large quantities of fibre cable within 100+ major locations. This achieved immediate quality improvements and established lasting process and procedures. In addition structured cabling standards were developed for 10 data centres and core network locations ',
 				img: './assets/images/casestudies/CS7-Business_Process_7627179_l-2015.jpg',
 
 			},
 			{
 				title: 'Back-office Finance Outsource',
-				text: 'To meet CEO external commitments, the rapid implementation of supporting systems ' +
-				'and secure access was required to support the off-shore outsource of back-office finance.',
+				text: 'To meet CEO external commitments, the rapid implementation of supporting systems and secure access was required to support the off-shore outsource of back-office finance.',
 				img: './assets/images/casestudies/CS8_Business_Process_3505359_l-2015.jpg',
 
 			}
@@ -287,8 +278,8 @@ export const work = [
 			},
 			{
 				title: 'SWIFT Annual Systems Upgrade ',
-				text: 'Remediation of the in-flight annual systems upgrade project for the mission critical SWIFT inter-bank transaction system.  Critical cutover and migration dates were achieved through applying: governance, management, alignment of infrastructure and software projects, risk mitigation, controlled migration and roll-back planning. '
-				, img: './assets/images/casestudies/CS11_Application_Development_11915805_l-2015.jpg'
+				text: 'Remediation of the in-flight annual systems upgrade project for the mission critical SWIFT inter-bank transaction system.  Critical cutover and migration dates were achieved through applying: governance, management, alignment of infrastructure and software projects, risk mitigation, controlled migration and roll-back planning.',
+				img: './assets/images/casestudies/CS11_Application_Development_11915805_l-2015.jpg'
 
 			}
 		]
@@ -375,15 +366,8 @@ export const work = [
 			{
 				title: 'IT Transformation',
 				subTitle: 'Financial Services',
-				text: 'Accountability for the definition, mobilisation, governance and execution of the organisation’s highest priority IT initiatives over a 3 ½ year period. These included regulatory initiatives, customer facing systems, major corporate buildings, technology outsourcing and internal systems.'
-				, img: './assets/images/casestudies/CS19-Staff_Communication_12030228_l-2015.jpg'
-
-			},
-			{
-				title: 'Cloud Computing Migration',
-				subTitle: 'Aged Care Provider',
-				text: 'An acquisition and growth strategy required the seamless migration of multiple duplicated business systems to an outsourced environment.'
-				, img: './assets/images/casestudies/CS19-Staff_Communication_12030228_l-2015.jpg'
+				text: 'Digital media strategy to address senior executive internal communications requirements, assessing the current environment and defining the strategy and roadmap for delivery of on-demand corporate video communication to staff at 350+ locations. ',
+				img: './assets/images/casestudies/CS19-Staff_Communication_12030228_l-2015.jpg'
 
 			}
 		]

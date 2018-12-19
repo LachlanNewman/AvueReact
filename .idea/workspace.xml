@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS10-Application_Development_178704428_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS11_Application_Development_11915805_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS12-Technologt_Transformation_49360603_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS13-Technology_Transformation_3190520_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS14-Technology_Transformation_6014864_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS15-Technology_Transformation_219534786_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS16-Technology_Transformation_42317637_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS17-Staff_Communications_14050132_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS18-Staff_Communication_115363888_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS19-Staff_Communication_12030228_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS2-Business_Transformation_195933794_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS3-Business_Transformation_31387239_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS4-Business_Transformation_107695884_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS5-Business_Process_10445634_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS6-Business_Process_107745058_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS7-Business_Process_7627179_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS8_Business_Process_3505359_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS9-Application_Development_41264001_l-2015.jpg" afterDir="false" />
+    <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="Case Study Images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/Application_Development.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/Business_Process.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/Business_Transformation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/casestudies/CS1-Business_Transformation_55199127_l-2015.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/data.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -55,8 +35,17 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/data.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/NavMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="385" column="112" selection-start-line="385" selection-start-column="112" selection-end-line="385" selection-end-column="112" />
+              <caret line="79" column="105" selection-start-line="79" selection-start-column="105" selection-end-line="79" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -161,13 +150,13 @@
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
         <option value="$PROJECT_DIR$/src/sass/components/_footer.scss" />
         <option value="$PROJECT_DIR$/src/index.scss" />
-        <option value="$PROJECT_DIR$/src/components/NavMenu.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/js/jquery.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/sass/components/_flipcard.scss" />
         <option value="$PROJECT_DIR$/src/components/Banner.js" />
         <option value="$PROJECT_DIR$/src/sass/components/_altflipcard.scss" />
+        <option value="$PROJECT_DIR$/src/components/NavMenu.js" />
         <option value="$PROJECT_DIR$/src/js/data.js" />
       </list>
     </option>
@@ -216,23 +205,13 @@
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="casestudies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,17 +269,26 @@
       <updated>1544785083919</updated>
       <workItem from="1544785086094" duration="32956000" />
       <workItem from="1544856585668" duration="22843000" />
-      <workItem from="1545134993119" duration="1340000" />
+      <workItem from="1545134993119" duration="3461000" />
     </task>
+    <task id="LOCAL-00001" summary="Case Study Images">
+      <created>1545195178178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545195178178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57139000" />
+    <option name="totallyTimeSpent" value="59260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29464287" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29464287" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -308,7 +296,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291367" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2990196" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2990196" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -345,6 +333,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Case Study Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case Study Images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/NavMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/images/Collaboration.png" />
     <entry file="file://$PROJECT_DIR$/public/assets/images/Managed_Operation.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -591,10 +576,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/data.js">
+    <entry file="file://$PROJECT_DIR$/src/components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="385" column="112" selection-start-line="385" selection-start-column="112" selection-end-line="385" selection-end-column="112" />
+          <caret line="79" column="105" selection-start-line="79" selection-start-column="105" selection-end-line="79" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
         </state>
       </provider>
     </entry>

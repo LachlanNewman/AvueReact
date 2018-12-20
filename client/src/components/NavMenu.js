@@ -73,8 +73,7 @@ class NavMenu extends React.Component {
 						      to={'/#services'}
 						      scroll={el => this.scrollWithOffset(el)}>Services</Link>
 						<Link className={'nav-menu__link'}
-						      to={'/work#main'}
-						      scroll={el => this.scrollWithOffset(el)}>Our Work</Link>
+						      to={'/work#main'}>Our Work</Link>
 						<Link className={'nav-menu__link'}
 						      to={'/#contact'}
 						      scroll={el => this.scrollWithOffset(el)}>Contact Us</Link>

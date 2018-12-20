@@ -1,4 +1,5 @@
 import React from 'react';
+import LazyLoad from 'react-lazy-load';
 
 const FlipCard = ({item,side}) => {
 	console.log(item);

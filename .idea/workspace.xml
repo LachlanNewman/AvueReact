@@ -2,11 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/server/email.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Analytics.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Application_Development.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Automation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Avue_Blue_Transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Avue_White_Transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Banner-resize.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Banner/Banner-resize-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Banner/Banner-resize-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Banner/Banner-resize.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Business_Process.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Business_Transformation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Collaboration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Managed_Operation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Mobility.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Operations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Reporting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Requirements.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Security.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Services.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Solution.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Solution_Component.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Staff_Communication.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Support.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Technology Transformation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Transformation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Workflow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS1-Business_Transformation_55199127_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS10-Application_Development_178704428_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS11_Application_Development_11915805_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS12-Technologt_Transformation_49360603_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS13-Technology_Transformation_3190520_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS14-Technology_Transformation_6014864_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS15-Technology_Transformation_219534786_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS16-Technology_Transformation_42317637_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS17-Staff_Communications_14050132_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS18-Staff_Communication_115363888_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS19-Staff_Communication_12030228_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS2-Business_Transformation_195933794_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS3-Business_Transformation_31387239_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS4-Business_Transformation_107695884_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS5-Business_Process_10445634_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS6-Business_Process_107745058_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS7-Business_Process_7627179_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS8_Business_Process_3505359_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/casestudies/CS9-Application_Development_41264001_l-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AlternateFlipCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AlternateSectionList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContactForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FlipCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeaderSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Section.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SectionList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WorkPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/helperFunctions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_globals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_altflipcard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_banner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_contactform.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_flipcard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_navmenu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/functional/_mixins.scss" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,65 +104,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_altflipcard.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sass/components/_altflipcard.scss">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="52">
+              <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/data.js">
+      <file leaf-file-name="email.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/email.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_banner.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sass/components/_banner.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_flipcard.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sass/components/_flipcard.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="106" column="47" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="17">
+              <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Contact.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Contact.js">
+        <entry file="file://$PROJECT_DIR$/client/src/components/Contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state>
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -86,32 +133,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactForm.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/ContactForm.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="50" column="65" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="239">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_globals.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sass/base/_globals.scss">
+      <file leaf-file-name="ContactForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/components/ContactForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Banner.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Banner.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="164">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -181,28 +216,33 @@
         <option value="$PROJECT_DIR$/src/sass/components/_flipcard.scss" />
         <option value="$PROJECT_DIR$/src/components/Banner.js" />
         <option value="$PROJECT_DIR$/src/sass/base/_globals.scss" />
+        <option value="$PROJECT_DIR$/public/assets/js/server.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/ContactForm.js" />
+        <option value="$PROJECT_DIR$/public/assets/js/email.js" />
+        <option value="$PROJECT_DIR$/client/public/index.html" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/server/email.js" />
+        <option value="$PROJECT_DIR$/client/src/components/ContactForm.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/client/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/client/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-138" />
     <option name="y" value="194" />
     <option name="width" value="1346" />
@@ -225,39 +265,25 @@
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,17 +305,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\js" />
-      <recent name="C:\Users\lachn\WebstormProjects\React\avue\public" />
-      <recent name="C:\Users\lachn\WebstormProjects\React\avue\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\css" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\images\casestudies" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\images\Banner" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\images" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\src\sass\functional" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lachn\WebstormProjects\React\avue\server" />
+      <recent name="C:\Users\lachn\WebstormProjects\React\avue" />
+      <recent name="C:\Users\lachn\WebstormProjects\React\avue\client" />
+      <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\js" />
+      <recent name="C:\Users\lachn\WebstormProjects\React\avue\public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,7 +344,8 @@
       <updated>1544785083919</updated>
       <workItem from="1544785086094" duration="32956000" />
       <workItem from="1544856585668" duration="22843000" />
-      <workItem from="1545134993119" duration="8382000" />
+      <workItem from="1545134993119" duration="13541000" />
+      <workItem from="1545275914762" duration="6073000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -339,25 +368,31 @@
       <option name="project" value="LOCAL" />
       <updated>1545200886881</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mail Test">
+      <created>1545204720072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545204720072</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64181000" />
+    <option name="totallyTimeSpent" value="75413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29464287" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291367" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2990196" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2875817" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -399,7 +434,8 @@
     <MESSAGE value="Case Study Images" />
     <MESSAGE value="Update To Data and NavMenu" />
     <MESSAGE value="Removed Scroll Horizontal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Scroll Horizontal" />
+    <MESSAGE value="Mail Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mail Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -413,39 +449,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="14928" column="13" selection-start-line="14928" selection-start-column="13" selection-end-line="14928" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_headersection.scss" />
-    <entry file="file://$PROJECT_DIR$/src/sass/base/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AlternateSectionList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Input.js" />
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_contactform.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/helperFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -471,9 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -481,9 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,16 +528,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="28" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#97#126#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/images/casestudies/Application_Development.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/casestudies/Application_Development.jpg" />
     <entry file="file://$PROJECT_DIR$/build/service-worker.js" />
     <entry file="file://$PROJECT_DIR$/build/precache-manifest.8fa5f023611e6c74a51f6826739b78e8.js" />
     <entry file="file://$PROJECT_DIR$/build/manifest.json" />
@@ -572,9 +563,7 @@
     <entry file="file://$PROJECT_DIR$/public/assets/images/Strategy.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml" />
     <entry file="file://$PROJECT_DIR$/src/components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -598,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/components/_banner.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
+        <state relative-caret-position="697">
           <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
@@ -612,14 +601,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/components/_flipcard.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
+        <state relative-caret-position="1802">
           <caret line="106" column="47" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Banner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="204">
           <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -641,16 +630,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="136">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -658,13 +640,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/ContactForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="50" column="65" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+        <state relative-caret-position="1088">
+          <caret line="65" column="82" selection-start-line="65" selection-start-column="82" selection-end-line="65" selection-end-column="82" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/email.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/email.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/ContactForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
         </state>
       </provider>
     </entry>

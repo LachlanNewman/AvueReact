@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios';
+import sgMail  from '@sendgrid/mail'
 class ContactForm extends React.Component {
 
 
@@ -23,20 +24,20 @@ class ContactForm extends React.Component {
 
 	sendEmail = (e) => {
 		e.preventDefault();
-		axios({
-			method: "POST",
-			url:"http://localhost:3000/api/send_mail",
-			data: {
-				name: this.state.name,
-				email: this.state.email,
-				message: this.state.content
-			}
-		}).then((response)=>{
-			if (response.data.msg === 'success'){
-				alert("Message Sent.");
-			}else if(response.data.msg === 'fail'){
-				alert("Message failed to send.")
-			}
+		console.log(process.env.REACT_APP_SENDGRID_API);
+		sgMail.setApiKey(process.env.REACT_APP_SENDGRID_API);
+		const msg = {
+			to: 'lachnewman007@gmail.com',
+			from: `${this.state.name} <${this.state.email}>`,
+			subject: 'AVUE CONTACT SUBMISSION',
+			text: this.state.content,
+			html: this.state.content,
+		};
+		sgMail.send(msg);
+		this.setState({
+			name: null,
+			email: null,
+			content: null
 		})
 	}
 

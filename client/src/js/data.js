@@ -164,8 +164,8 @@ export const service = {
 
 export const contact = {
 	header: {
-		title: 'MELBOURNE - SYDNEY - NEWCASTLE',
-		subTitle: 'avue can assist you to achieve your business and technology objectives'
+		title: 'avue can assist you to achieve your business and technology objectives',
+		subTitle: 'MELBOURNE - SYDNEY - NEWCASTLE'
 	}
 };
 

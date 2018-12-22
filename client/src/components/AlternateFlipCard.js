@@ -5,7 +5,7 @@ const AlternateFlipCard =({item,color}) => {
 		<div className={`alt-flip-card alt-flip-card--${color}`}>
 			<div className={`alt-flip-card__image flip-card__image`} style={{backgroundImage: `url(${item.img})`}}		>
 			</div>
-			<div className={`alt-flip-card__inner flip-card__inner`}>
+			<div className={`alt-flip-card__inner`}>
 				<div className={`alt-flip-card__front`} style={{backgroundImage : `url(${item.img})`}}>
 					<div className={`alt-flip-card__overlay flip-card__overlay`} >
 						<h2>{item.title}</h2>

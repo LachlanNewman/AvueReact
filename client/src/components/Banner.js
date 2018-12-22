@@ -4,15 +4,26 @@ import {Carousel} from 'react-responsive-carousel';
 
 class Banner extends React.Component {
 
+	renderBannerImgs = () => {
+		return this.props.bannerSrc.map(img => {
+			return (
+				<div>
+					<img src={img}/>
+				</div>
+			)
+		})
+	}
+
 
 	render() {
 
 		const options = {
-				autoplay: true,
+				autoPlay: true,
 				showArrows: false,
 				showIndicators: false,
 				showThumbs: false,
-				showStatus: false
+				showStatus: false,
+				interval: 2000
 			}
 		;
 
@@ -28,33 +39,7 @@ class Banner extends React.Component {
 				</div>
 
 				<Carousel {...options}>
-					<div>
-						{
-
-							this.props.bannerSrc ?
-								<img src={this.props.bannerSrc}
-								     alt="Achieving Business Outcomes"/> :
-								null
-						}
-					</div>
-					<div>
-						{
-
-							this.props.bannerSrc ?
-								<img src={this.props.bannerSrc}
-								     alt="Achieving Business Outcomes"/> :
-								null
-						}
-					</div>
-					<div>
-						{
-
-							this.props.bannerSrc ?
-								<img src={this.props.bannerSrc}
-								     alt="Achieving Business Outcomes"/> :
-								null
-						}
-					</div>
+					{this.renderBannerImgs()}
 				</Carousel>
 			</section>
 		)

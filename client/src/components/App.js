@@ -18,12 +18,20 @@ const Work = () => {
 }
 
 const Home = () => {
+
+	const bannerImgs = [
+		'assets/images/Banner/Banner-resize.jpg',
+		'assets/images/Banner/Banner_Melbourne-resize.jpg',
+		'assets/images/Banner/Banner_Newcastle-resize.jpg',
+		'assets/images/Banner/Banner_Sydney-resize.jpg'
+	]
+
 	return (
 		<main id={'main'}>
 			<Banner
 				title={'Achieving Business Outcomes'}
 				logoSrc={'./assets/images/Avue_White_Transparent.png'}
-				bannerSrc={'assets/images/Banner-resize.jpg'}
+				bannerSrc={bannerImgs}
 			/>
 			<Section id={'about'} data={about}/>
 			<Section id={'solutions'} data={solutions}/>

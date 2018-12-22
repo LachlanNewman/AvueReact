@@ -44,6 +44,14 @@
 
             }
 
+            *{
+                  color: $color__white;
+            }
+
+            h4{
+                  color: $color__blue--light;
+            }
+
       }
 
       &__inner {
@@ -91,7 +99,7 @@
                   width: 100%;
             }
 
-            &:hover &__inner {
+            &__inner:hover {
                   transform: rotateY(180deg);
             }
 

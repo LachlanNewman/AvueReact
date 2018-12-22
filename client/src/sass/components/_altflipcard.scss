@@ -7,16 +7,20 @@
       $id: &;
       border: 1px solid $color__white;
       box-sizing: border-box;
-      @include breakpoint(mobileonly) {
-            width: 50%;
-      }
-      @include breakpoint(tablet) {
-            width: calc(100% / 3);
-      }
+      height: 100%;
 
       &__list {
             display: flex;
             flex-wrap: wrap;
+            & > div{
+                  width: 100%;
+                  @include breakpoint(mobileonly) {
+                        width: 50%;
+                  }
+                  @include breakpoint(tablet) {
+                        width: calc(100% / 3);
+                  }
+            }
       }
 
       &__image {

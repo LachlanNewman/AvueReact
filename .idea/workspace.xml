@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/js/work.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/FlipCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/FlipCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/HeaderSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HeaderSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NavMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Section.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Section.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/SectionList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/SectionList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/WorkPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/js/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/js/helperFunctions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/base/_globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/base/_globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/components/_contactform.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/components/_contactform.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/components/_navmenu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/components/_navmenu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Banner.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,47 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_globals.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/sass/base/_globals.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_typography.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/sass/base/_typography.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_navmenu.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/sass/components/_navmenu.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_flipcard.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_flipcard.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/sass/components/_flipcard.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/js/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="154" column="163" selection-start-line="154" selection-start-column="163" selection-end-line="154" selection-end-column="163" />
+            <state relative-caret-position="266">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -118,8 +65,53 @@
       <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/NavMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="62" column="85" selection-start-line="62" selection-start-column="81" selection-end-line="62" selection-end-column="85" />
+            <state relative-caret-position="238">
+              <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Banner.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipCard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/components/FlipCard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Section.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/components/Section.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="99" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
+              <folding>
+                <element signature="e#41#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SectionList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/components/SectionList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="39" lean-forward="true" selection-start-line="1" selection-end-line="2" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -187,7 +179,6 @@
         <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/client/src/components/ContactForm.js" />
         <option value="$PROJECT_DIR$/client/src/components/AlternateSectionList.js" />
-        <option value="$PROJECT_DIR$/client/src/components/Banner.js" />
         <option value="$PROJECT_DIR$/client/src/components/AlternateFlipCard.js" />
         <option value="$PROJECT_DIR$/client/src/components/WorkPage.js" />
         <option value="$PROJECT_DIR$/client/src/components/Section.js" />
@@ -198,7 +189,6 @@
         <option value="$PROJECT_DIR$/client/src/components/App.js" />
         <option value="$PROJECT_DIR$/client/src/components/HeaderSection.js" />
         <option value="$PROJECT_DIR$/client/src/js/work.js" />
-        <option value="$PROJECT_DIR$/client/src/components/NavMenu.js" />
         <option value="$PROJECT_DIR$/client/src/sass/components/_navmenu.scss" />
         <option value="$PROJECT_DIR$/client/src/sass/base/_typography.scss" />
         <option value="$PROJECT_DIR$/client/src/js/data.js" />
@@ -207,6 +197,8 @@
         <option value="$PROJECT_DIR$/client/src/components/Footer.js" />
         <option value="$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss" />
         <option value="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" />
+        <option value="$PROJECT_DIR$/client/src/components/NavMenu.js" />
+        <option value="$PROJECT_DIR$/client/src/components/Banner.js" />
       </list>
     </option>
   </component>
@@ -395,7 +387,7 @@
       <workItem from="1544785086094" duration="32956000" />
       <workItem from="1544856585668" duration="22843000" />
       <workItem from="1545134993119" duration="13541000" />
-      <workItem from="1545275914762" duration="26214000" />
+      <workItem from="1545275914762" duration="27557000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -460,11 +452,25 @@
       <option name="project" value="LOCAL" />
       <updated>1545449003554</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Case Study Display on Page">
+      <created>1545454473332</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545454473332</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Scroll to Anchor Tags">
+      <created>1545455086173</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545455086173</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95554000" />
+    <option name="totallyTimeSpent" value="96897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -524,7 +530,9 @@
     <MESSAGE value="Lazy Load Images" />
     <MESSAGE value="Swap Contact Us Headers" />
     <MESSAGE value="Flip When Hovering Text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flip When Hovering Text" />
+    <MESSAGE value="Case Study Display on Page" />
+    <MESSAGE value="Scroll to Anchor Tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scroll to Anchor Tags" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -697,16 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/ContactForm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -720,33 +718,6 @@
     <entry file="file://$PROJECT_DIR$/client/src/components/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/FlipCard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/Section.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="99" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
-          <folding>
-            <element signature="e#41#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/SectionList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -833,16 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/NavMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="62" column="85" selection-start-line="62" selection-start-column="81" selection-end-line="62" selection-end-column="85" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/sass/components/_navmenu.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -901,8 +862,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/sass/components/_flipcard.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="266">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/NavMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/FlipCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/Section.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="99" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
+          <folding>
+            <element signature="e#41#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/SectionList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="39" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,15 +1,16 @@
 import React from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import {Carousel} from 'react-responsive-carousel';
+import LazyLoad from 'react-lazy-load';
 
 class Banner extends React.Component {
 
 	renderBannerImgs = () => {
 		return this.props.bannerSrc.map(img => {
 			return (
-				<div>
+				<LazyLoad>
 					<img src={img}/>
-				</div>
+				</LazyLoad>
 			)
 		})
 	}

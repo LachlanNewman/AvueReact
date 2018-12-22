@@ -24,7 +24,8 @@ class Banner extends React.Component {
 				showIndicators: false,
 				showThumbs: false,
 				showStatus: false,
-				interval: 2000
+				interval: 2000,
+				infiniteLoop: true
 			}
 		;
 

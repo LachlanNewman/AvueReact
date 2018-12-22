@@ -7,11 +7,12 @@ import FlipCard from './FlipCard'
 class SectionList extends React.Component {
 
 	renderList() {
+
 		return this.props.items.map((item, i) => {
 			const side = (i % 2 == 0) ? 'right' : 'left';
 			return (
-				<LazyLoad>
-					<FlipCard item={item} side={side}/>
+				<LazyLoad >
+					<FlipCard item={item} side={side} hideTextTile={this.props.hideTextTile}/>
 				</LazyLoad>
 			)
 		})
@@ -19,7 +20,7 @@ class SectionList extends React.Component {
 
 	render() {
 		return (
-			<div>
+			<div className={`section-list ${this.props.hideTextTile? 'flex':''}`}>
 				{this.renderList()}
 			</div>
 		);

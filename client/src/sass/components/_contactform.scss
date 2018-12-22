@@ -4,9 +4,9 @@
 */
 
 .contact-form{
-      padding: 0 $page-margin-mobile;
+      padding: 0 $page-margin-mobile $page-margin-mobile $page-margin-mobile;
       @include breakpoint(phablet) {
-            padding: 0px $page-margin;
+            padding: 0 $page-margin $page-margin $page-margin;
       }
       &__row{
             display: flex;

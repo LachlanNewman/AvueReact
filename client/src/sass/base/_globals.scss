@@ -43,6 +43,21 @@ main {
       }
 }
 
+.section-list{
+      &.flex{
+            display: flex;
+            flex-wrap: wrap;
+
+            & > div{
+                  width: 100%;
+                  @include breakpoint(mobileonly){
+                        width: 50%;
+                  }
+            }
+
+      }
+}
+
 input, textarea{
       width: 100%;
       border: 1px solid $color__blue--light;

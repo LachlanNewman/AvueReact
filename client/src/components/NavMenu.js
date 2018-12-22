@@ -1,6 +1,5 @@
 import React from 'react';
-// import {Link} from 'react-router-dom'
-import {HashLink as Link} from 'react-router-hash-link';
+import {BrowserRouter ,Route,Link} from "react-router-dom";
 
 class NavMenu extends React.Component {
 
@@ -58,9 +57,10 @@ class NavMenu extends React.Component {
 						<div></div>
 						<div></div>
 					</div>
+					<BrowserRouter>
 					<div className={`nav-menu__menu ${showMenu}`}>
 						<Link exact
-						      className={'nav-menu__link'}
+						      className={'nav-menu__link home'}
 						      to={'/#main'}
 						      scroll={el => this.scrollWithOffset(el)}>Home</Link>
 						<Link className={'nav-menu__link'}
@@ -73,11 +73,12 @@ class NavMenu extends React.Component {
 						      to={'/#services'}
 						      scroll={el => this.scrollWithOffset(el)}>Services</Link>
 						<Link className={'nav-menu__link'}
-						      to={'/work#main'}>Our Work</Link>
+						      to={'/work'}>Our Work</Link>
 						<Link className={'nav-menu__link'}
 						      to={'/#contact'}
 						      scroll={el => this.scrollWithOffset(el)}>Contact Us</Link>
 					</div>
+					</BrowserRouter>
 				</div>
 			</header>
 		)

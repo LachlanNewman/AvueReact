@@ -5,13 +5,13 @@ import HeaderSection from './HeaderSection'
 import SectionList from './SectionList'
 import AlternateSectionList from "./AlternateSectionList";
 
-const Section = ({id, data}) => {
+const Section = ({id, data,hideTextTile}) => {
 
 	if (id === 'solutions') {
 		return (
 			<section id={id}>
 				<HeaderSection header={data.header}/>
-				<AlternateSectionList items={data.items}/>
+				<AlternateSectionList items={data.items} hideTextTile={hideTextTile}/>
 			</section>
 		);
 	}
@@ -19,7 +19,7 @@ const Section = ({id, data}) => {
 		return (
 			<section id={id}>
 				<HeaderSection header={data.header}/>
-				<SectionList items={data.items}/>
+				<SectionList items={data.items} hideTextTile={hideTextTile}/>
 			</section>
 		);
 	}

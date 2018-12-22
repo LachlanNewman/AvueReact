@@ -1,12 +1,16 @@
 import React from 'react';
 
-import {insertLineBreaks} from "../js/helperFunctions";
+const insertLineBreaks = (text) => {
+	return text.split('\n').map((item, key) => {
+		return <span key={key}>{item}<br/></span>
+	});
+}
 
 const HeaderSection = ({header}) => {
 	return (
 		<div className="heading-section">
-			<h2>{header.title}</h2>
-			<h3>{header.subTitle}</h3>
+			<h2>{insertLineBreaks(header.title)}</h2>
+			<h3>{insertLineBreaks(header.subTitle)}</h3>
 		</div>
 	)
 };

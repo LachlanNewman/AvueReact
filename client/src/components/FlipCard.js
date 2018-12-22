@@ -1,20 +1,27 @@
 import React from 'react';
-import LazyLoad from 'react-lazy-load';
 
-const FlipCard = ({item,side}) => {
-	console.log(item);
+const FlipCard = ({item,side,hideTextTile}) => {
+
+	const flipCardImg = (
+		<div className={`flip-card__image`} style={{backgroundImage: `url(${item.img})`}}		>
+		</div>
+	)
+
 	return (
-		<div className={`flip-card flip-card--${side}`}>
-			<div className={`flip-card__image`} style={{backgroundImage: `url(${item.img})`}}		>
-			</div>
+		<div className={`flip-card flip-card--${side} ${hideTextTile?'flip-card--hide-img':''}`}>
+			{
+				hideTextTile? '': flipCardImg
+			}
+
 			<div className={`flip-card__inner`}>
-				<div className={`flip-card__front`} style={{backgroundImage : `url(${item.img})`}}>
+				<div className={`flip-card__front ${hideTextTile?'show-image':''}`} style={{backgroundImage : `url(${item.img})`}}>
 					<div className={`flip-card__overlay`} >
 						<h2>{item.title}</h2>
 						<h4>{item.subTitle}</h4>
 					</div>
 				</div>
 				<div className={`flip-card__back`}>
+					<h2>{item.title}</h2>
 					<p>{item.text}</p>
 				</div>
 			</div>

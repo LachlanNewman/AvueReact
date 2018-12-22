@@ -36,19 +36,25 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            @include breakpoint(mobileonly){
+            @include breakpoint(mobileonly) {
                   background-image: none !important;
             }
             @include breakpoint(phablet) {
                   padding: 0 $page-margin;
-
             }
 
-            *{
+            * {
                   color: $color__white;
             }
 
-            h4{
+            h2 {
+                  height: 40px;
+                  @include breakpoint(phablet) {
+                        height: 60px;
+                  }
+            }
+
+            h4 {
                   color: $color__blue--light;
             }
 
@@ -56,12 +62,13 @@
 
       &__inner {
             width: 100%;
+            padding-bottom: $page-margin-mobile;
       }
 
       &--blue-dark {
             background-color: $color__blue--dark;
             @include max-breakpoint(mobileonly) {
-                  #{$id}__front,#{$id}__back{
+                  #{$id}__front, #{$id}__back {
                         background-color: $color__blue--dark;
                   }
             }
@@ -70,7 +77,7 @@
       &--blue-medium {
             background-color: $color__blue--medium;
             @include max-breakpoint(mobileonly) {
-                  #{$id}__front,#{$id}__back{
+                  #{$id}__front, #{$id}__back {
                         background-color: $color__blue--medium;
                   }
             }
@@ -79,7 +86,7 @@
       &--grey-dark {
             background-color: $color__grey--dark;
             @include max-breakpoint(mobileonly) {
-                  #{$id}__front,#{$id}__back{
+                  #{$id}__front, #{$id}__back {
                         background-color: $color__grey--dark;
                   }
             }
@@ -114,7 +121,7 @@
                   transform: rotateY(180deg);
             }
 
-            &__front{
+            &__front {
                   padding: 0;
             }
 

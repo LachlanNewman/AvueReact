@@ -64,15 +64,19 @@
 
       &__link {
             color: $color__white;
-            font-size: .85em;
+            font-size: 13px;
             padding-bottom: .5em;
             text-decoration: none;
             letter-spacing: .15em;
             text-transform: uppercase;
             margin-bottom: 10px;
+
             @include breakpoint(phablet) {
                   margin-left: 20px;
                   margin-bottom: 0px;
+                  &.home{
+                        margin-left: 0;
+                  }
             }
 
             &:hover{

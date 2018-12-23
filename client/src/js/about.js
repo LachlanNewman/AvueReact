@@ -13,7 +13,7 @@ const about = {
 			' studies across multiple options. The model allows us to utilise industry benchmarks, targeted ' +
 			'financial modelling, data analysis, delivery strategy and constraint frameworks to present viable ' +
 			'options, progressing the agreed option into the investment planning and business case development.',
-			img: './assets/images/Strategy_16372601_l-2015.jpg',
+			img: './assets/images/Strategy_16372601_m-2015.jpg',
 		},
 		{
 			id: 1,
@@ -23,7 +23,7 @@ const about = {
 			'partners to deliver effective solution development to support your business need. Our capability ' +
 			'allows us to help organisations to meet their business objectives by deploying effective technology ' +
 			'and business solutions to drive operational efficiencies, customer value and ultimately profitability. ',
-			img: './assets/images/Solution_21829337_l-2015.jpg',
+			img: './assets/images/Solution_21829337_m-2015.jpg',
 		},
 		{
 			id: 2,
@@ -34,7 +34,7 @@ const about = {
 			'organisational demands. We understand the complexity of organisational change, and although our ' +
 			'capability is well advanced, we leverage our partners to bring together the industry experts and ' +
 			'the best resources to a particular engagement. ',
-			img: './assets/images/Transformation-2_228156392_l-2015.jpg',
+			img: './assets/images/Transformation-2_228156392_m-2015.jpg',
 		},
 		{
 			id: 3,
@@ -44,7 +44,7 @@ const about = {
 			'On a sustained  basis we leverage technology capability and flexible processes that automate key client ' +
 			'transactions and interactions. By removing the operational burdens, you can focus on core business and ' +
 			'customer support services with an improved TCO. ',
-			img: './assets/images/Managed_Operation_2804026_l-2015.jpg',
+			img: './assets/images/Managed_Operation_2804026_m-2015.jpg',
 		},
 
 	]

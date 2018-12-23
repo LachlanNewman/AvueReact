@@ -1,5 +1,9 @@
 import React from 'react';
 
+const getScreenSize = () => {
+	const screenWidth = window.innerWidth;
+}
+
 const AlternateFlipCard =({item,color}) => {
 	return (
 		<div className={`alt-flip-card alt-flip-card--${color}`}>

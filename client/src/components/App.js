@@ -10,9 +10,10 @@ import Contact from "./Contact";
 import Footer from './Footer'
 
 //data
-import {service,contact} from '../js/data'
+import {contact} from '../js/data'
 import about from '../js/about'
 import solutions from '../js/solutions'
+import service from '../js/service'
 import {BSTwork, BPGwork, ADwork, TUTwork, SCwork} from '../js/work'
 
 

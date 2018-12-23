@@ -14,7 +14,7 @@ const solutions = {
 			'and external API’s to attract new prospects and provide more value to your work force and customers.  ' +
 			'We can provide access to the right skills and expertise to achieve enormous commercial gains by ' +
 			'adopting and exploiting enterprise mobility solutions. ',
-			img: './assets/images/Mobility_37923853_l-2015.jpg',
+			img: './assets/images/Mobility_37923853_m-2015.jpg',
 		},
 		{
 			id: 1,
@@ -25,7 +25,7 @@ const solutions = {
 			'interaction.  Our people and partners are well versed in the business process and technology ' +
 			'required to unlock the information potential and benefits from the data your organisation already ' +
 			'possesses.  ',
-			img: './assets/images/Analytics-2_63897797_l-2015.jpg',
+			img: './assets/images/Analytics-2_63897797_m-2015.jpg',
 
 		},
 		{
@@ -37,7 +37,7 @@ const solutions = {
 			'potential to drive a positive consumer  experience. We are well positioned to lead a number of ' +
 			'vertical markets such as finance, transport, health and  government for example, through the ' +
 			'automation journey.  Our approach is consultative  and supported by business process and technology. ',
-			img: './assets/images/Security_4382303_l-2015.jpg',
+			img: './assets/images/Security_4382303_m-2015.jpg',
 		},
 		{
 			id: 3,
@@ -50,7 +50,7 @@ const solutions = {
 			' and remove the key barriers, deploying collaborative systems and eco environments that not only' +
 			' draw together internal resources but extend engagement with to like minded ' +
 			'communities where there is common interest and benefit.',
-			img: './assets/images/Collaboration_52459259_l-2015.jpg',
+			img: './assets/images/Collaboration_52459259_m-2015.jpg',
 
 		}, {
 			id: 4,
@@ -62,7 +62,7 @@ const solutions = {
 			'the first step to automation,  however just because it can be automated does not mean it ' +
 			'should be, our experts have the experience and technical know how to deliver effective ' +
 			'workflow in support of a manual, semi-manual or automated business process.',
-			img: './assets/images/Workflow-2_11222461_l-2015.jpg',
+			img: './assets/images/Workflow-2_11222461_m-2015.jpg',
 		},
 		{
 			id: 5,
@@ -74,7 +74,7 @@ const solutions = {
 			'that involve disparate systems and data repositories, unified reporting provides ' +
 			'effective business intelligence and facilitates dissemination of information and ' +
 			'knowledge transfer. ',
-			img: './assets/images/Reporting_6142245_l-2015.jpg',
+			img: './assets/images/Reporting_6142245_m-2015.jpg',
 
 		}
 

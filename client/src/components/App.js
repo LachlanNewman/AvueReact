@@ -18,10 +18,10 @@ import {BSTwork, BPGwork, ADwork, TUTwork, SCwork} from '../js/work'
 
 
 const bannerImgs = [
-	'assets/images/Banner/Banner-resize.jpg',
-	'assets/images/Banner/Banner_Melbourne-resize.jpg',
-	'assets/images/Banner/Banner_Newcastle-resize.jpg',
-	'assets/images/Banner/Banner_Sydney-resize.jpg'
+	'assets/images/Banner/Banner-resize.webp',
+	'assets/images/Banner/Banner_Melbourne-resize.webp',
+	'assets/images/Banner/Banner_Newcastle-resize.webp',
+	'assets/images/Banner/Banner_Sydney-resize.webp'
 ]
 
 
@@ -30,11 +30,11 @@ const App = () => {
 		<div>
 			<NavMenu/>
 			<main id={'main'}>
-				{/*<Banner*/}
-					{/*title={'Achieving Business Outcomes'}*/}
-					{/*logoSrc={'./assets/images/Avue_White_Transparent.png'}*/}
-					{/*bannerSrc={bannerImgs}*/}
-				{/*/>*/}
+				<Banner
+					title={'Achieving Business Outcomes'}
+					logoSrc={'./assets/images/Avue_White_Transparent.png'}
+					bannerSrc={bannerImgs}
+				/>
 				<Section id={'about'} data={about}/>
 				<Section id={'solutions'} data={solutions}/>
 				<Section id={'services'} data={service}/>

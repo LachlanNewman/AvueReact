@@ -78,7 +78,7 @@ export const solutions = {
 			'interaction.  Our people and partners are well versed in the business process and technology ' +
 			'required to unlock the information potential and benefits from the data your organisation already ' +
 			'possesses.  ',
-			img: './assets/images/Analytics.jpg',
+			img: './assets/images/Analytics-2_63897797_l-2015.jpg',
 
 		},
 		{

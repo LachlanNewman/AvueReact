@@ -9,12 +9,32 @@
             padding: 0 $page-margin $page-margin $page-margin;
       }
       &__row{
-            display: flex;
-            margin-bottom: 10px;
+            margin-bottom: $global__input--margin;
+            @include breakpoint(mobileonly){
+                  display: flex;
+
+            }
 
             input + input {
-                  margin-left: 10px;
+                  margin-top: $global__input--margin;
+                  margin-left: 0;
+                  @include breakpoint(mobileonly) {
+                        margin-left: $global__input--margin;
+                        margin-top: 0;
+                  }
+
+
             }
+
+            button{
+                  display: block;
+                  margin: auto;
+                  @include breakpoint(mobileonly){
+                        margin: initial;
+                  }
+            }
+
+
       }
 }
 

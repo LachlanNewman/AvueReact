@@ -10,7 +10,8 @@ import Contact from "./Contact";
 import Footer from './Footer'
 
 //data
-import {about, service,contact} from '../js/data'
+import {service,contact} from '../js/data'
+import about from '../js/about'
 import solutions from '../js/solutions'
 import {BSTwork, BPGwork, ADwork, TUTwork, SCwork} from '../js/work'
 
@@ -28,11 +29,11 @@ const App = () => {
 		<div>
 			<NavMenu/>
 			<main id={'main'}>
-				<Banner
-					title={'Achieving Business Outcomes'}
-					logoSrc={'./assets/images/Avue_White_Transparent.png'}
-					bannerSrc={bannerImgs}
-				/>
+				{/*<Banner*/}
+					{/*title={'Achieving Business Outcomes'}*/}
+					{/*logoSrc={'./assets/images/Avue_White_Transparent.png'}*/}
+					{/*bannerSrc={bannerImgs}*/}
+				{/*/>*/}
 				<Section id={'about'} data={about}/>
 				<Section id={'solutions'} data={solutions}/>
 				<Section id={'services'} data={service}/>

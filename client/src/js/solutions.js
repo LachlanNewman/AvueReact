@@ -37,7 +37,7 @@ const solutions = {
 			'potential to drive a positive consumer  experience. We are well positioned to lead a number of ' +
 			'vertical markets such as finance, transport, health and  government for example, through the ' +
 			'automation journey.  Our approach is consultative  and supported by business process and technology. ',
-			img: './assets/images/Security_4382303_m-2015.jpg',
+			img: './assets/images/Automation_58504529_m-2015.jpg',
 		},
 		{
 			id: 3,

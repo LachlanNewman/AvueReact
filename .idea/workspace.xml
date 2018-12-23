@@ -2,139 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS1-Business_Transformation_55199127_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS1-Business_Transformation_55199127_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS1-Business_Transformation_55199127_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS1-Business_Transformation_55199127_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS1-Business_Transformation_55199127_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS1-Business_Transformation_55199127_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS1-Business_Transformation_55199127_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS1-Business_Transformation_55199127_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS1-Business_Transformation_55199127_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS1-Business_Transformation_55199127_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS10-Application_Development_178704428_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS10-Application_Development_178704428_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS10-Application_Development_178704428_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS10-Application_Development_178704428_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS10-Application_Development_178704428_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS10-Application_Development_178704428_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS10-Application_Development_178704428_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS10-Application_Development_178704428_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS10-Application_Development_178704428_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS10-Application_Development_178704428_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS11_Application_Development_11915805_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS11_Application_Development_11915805_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS11_Application_Development_11915805_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS11_Application_Development_11915805_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS11_Application_Development_11915805_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS11_Application_Development_11915805_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS11_Application_Development_11915805_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS11_Application_Development_11915805_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS11_Application_Development_11915805_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS11_Application_Development_11915805_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS12-Technologt_Transformation_49360603_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS12-Technologt_Transformation_49360603_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS12-Technologt_Transformation_49360603_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS12-Technologt_Transformation_49360603_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS12-Technologt_Transformation_49360603_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS12-Technologt_Transformation_49360603_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS12-Technologt_Transformation_49360603_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS12-Technologt_Transformation_49360603_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS12-Technologt_Transformation_49360603_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS12-Technologt_Transformation_49360603_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS13-Technology_Transformation_3190520_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS13-Technology_Transformation_3190520_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS13-Technology_Transformation_3190520_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS13-Technology_Transformation_3190520_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS13-Technology_Transformation_3190520_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS13-Technology_Transformation_3190520_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS13-Technology_Transformation_3190520_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS13-Technology_Transformation_3190520_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS13-Technology_Transformation_3190520_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS13-Technology_Transformation_3190520_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS14-Technology_Transformation_6014864_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS14-Technology_Transformation_6014864_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS14-Technology_Transformation_6014864_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS14-Technology_Transformation_6014864_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS14-Technology_Transformation_6014864_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS14-Technology_Transformation_6014864_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS14-Technology_Transformation_6014864_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS14-Technology_Transformation_6014864_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS14-Technology_Transformation_6014864_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS15-Technology_Transformation_219534786_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS15-Technology_Transformation_219534786_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS15-Technology_Transformation_219534786_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS15-Technology_Transformation_219534786_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS15-Technology_Transformation_219534786_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS15-Technology_Transformation_219534786_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS15-Technology_Transformation_219534786_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS15-Technology_Transformation_219534786_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS15-Technology_Transformation_219534786_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS15-Technology_Transformation_219534786_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS16-Technology_Transformation_42317637_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS16-Technology_Transformation_42317637_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS16-Technology_Transformation_42317637_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS16-Technology_Transformation_42317637_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS16-Technology_Transformation_42317637_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS16-Technology_Transformation_42317637_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS16-Technology_Transformation_42317637_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS16-Technology_Transformation_42317637_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS16-Technology_Transformation_42317637_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS16-Technology_Transformation_42317637_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS17-Staff_Communications_14050132_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS17-Staff_Communications_14050132_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS17-Staff_Communications_14050132_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS17-Staff_Communications_14050132_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS17-Staff_Communications_14050132_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS17-Staff_Communications_14050132_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS17-Staff_Communications_14050132_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS17-Staff_Communications_14050132_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS17-Staff_Communications_14050132_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS17-Staff_Communications_14050132_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS18-Staff_Communication_115363888_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS18-Staff_Communication_115363888_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS18-Staff_Communication_115363888_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS18-Staff_Communication_115363888_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS18-Staff_Communication_115363888_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS18-Staff_Communication_115363888_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS18-Staff_Communication_115363888_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS18-Staff_Communication_115363888_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS18-Staff_Communication_115363888_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS18-Staff_Communication_115363888_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS19-Staff_Communication_12030228_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS19-Staff_Communication_12030228_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS19-Staff_Communication_12030228_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS19-Staff_Communication_12030228_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS19-Staff_Communication_12030228_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS19-Staff_Communication_12030228_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS19-Staff_Communication_12030228_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS19-Staff_Communication_12030228_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS19-Staff_Communication_12030228_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS19-Staff_Communication_12030228_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS2-Business_Transformation_195933794_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS2-Business_Transformation_195933794_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS2-Business_Transformation_195933794_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS2-Business_Transformation_195933794_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS2-Business_Transformation_195933794_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS2-Business_Transformation_195933794_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS2-Business_Transformation_195933794_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS2-Business_Transformation_195933794_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS2-Business_Transformation_195933794_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS2-Business_Transformation_195933794_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS3-Business_Transformation_31387239_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS3-Business_Transformation_31387239_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS3-Business_Transformation_31387239_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS3-Business_Transformation_31387239_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS3-Business_Transformation_31387239_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS3-Business_Transformation_31387239_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS3-Business_Transformation_31387239_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS3-Business_Transformation_31387239_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS3-Business_Transformation_31387239_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS3-Business_Transformation_31387239_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS4-Business_Transformation_107695884_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS4-Business_Transformation_107695884_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS4-Business_Transformation_107695884_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS4-Business_Transformation_107695884_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS4-Business_Transformation_107695884_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS4-Business_Transformation_107695884_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS4-Business_Transformation_107695884_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS4-Business_Transformation_107695884_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS4-Business_Transformation_107695884_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS4-Business_Transformation_107695884_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS5-Business_Process_10445634_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS5-Business_Process_10445634_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS5-Business_Process_10445634_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS5-Business_Process_10445634_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS5-Business_Process_10445634_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS5-Business_Process_10445634_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS5-Business_Process_10445634_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS5-Business_Process_10445634_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS5-Business_Process_10445634_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS5-Business_Process_10445634_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS6-Business_Process_107745058_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS6-Business_Process_107745058_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS6-Business_Process_107745058_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS6-Business_Process_107745058_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS6-Business_Process_107745058_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS6-Business_Process_107745058_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS6-Business_Process_107745058_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS6-Business_Process_107745058_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS6-Business_Process_107745058_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS6-Business_Process_107745058_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS7-Business_Process_7627179_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS7-Business_Process_7627179_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS7-Business_Process_7627179_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS7-Business_Process_7627179_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS7-Business_Process_7627179_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS7-Business_Process_7627179_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS7-Business_Process_7627179_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS7-Business_Process_7627179_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS7-Business_Process_7627179_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS7-Business_Process_7627179_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS8_Business_Process_3505359_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS8_Business_Process_3505359_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS8_Business_Process_3505359_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS8_Business_Process_3505359_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS8_Business_Process_3505359_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS8_Business_Process_3505359_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS8_Business_Process_3505359_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS8_Business_Process_3505359_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS8_Business_Process_3505359_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS8_Business_Process_3505359_xs-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS9-Application_Development_41264001_l-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS9-Application_Development_41264001_m-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS9-Application_Development_41264001_m-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS9-Application_Development_41264001_m-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS9-Application_Development_41264001_s-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS9-Application_Development_41264001_s-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS9-Application_Development_41264001_s-2015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS9-Application_Development_41264001_xs-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/images/CS9-Application_Development_41264001_xs-2015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/images/casestudies/CS9-Application_Development_41264001_xs-2015.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -160,7 +28,7 @@
       <file leaf-file-name="Banner.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="221">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -178,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="84">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="e#97#126#0" expanded="true" />
@@ -237,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="work.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -327,8 +195,8 @@
         <option value="$PROJECT_DIR$/client/src/js/solutions.js" />
         <option value="$PROJECT_DIR$/client/src/js/work.js" />
         <option value="$PROJECT_DIR$/client/src/js/data.js" />
-        <option value="$PROJECT_DIR$/client/src/components/App.js" />
         <option value="$PROJECT_DIR$/client/src/js/service.js" />
+        <option value="$PROJECT_DIR$/client/src/components/App.js" />
       </list>
     </option>
   </component>
@@ -458,6 +326,15 @@
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="Banner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="casestudies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -578,7 +455,7 @@
       <workItem from="1544856585668" duration="22843000" />
       <workItem from="1545134993119" duration="13541000" />
       <workItem from="1545275914762" duration="30778000" />
-      <workItem from="1545548204966" duration="3097000" />
+      <workItem from="1545548204966" duration="3829000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -727,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545551120379</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Case Study Medium Images">
+      <created>1545551344910</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1545551344910</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103215000" />
+    <option name="totallyTimeSpent" value="103947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -801,7 +685,8 @@
     <MESSAGE value="Test Removal of banner" />
     <MESSAGE value="Medium Image Sizes" />
     <MESSAGE value="Sevice Images Medium" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sevice Images Medium" />
+    <MESSAGE value="Case Study Medium Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case Study Medium Images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1025,16 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/sass/base/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1063,18 +938,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#97#126#0" expanded="true" />
-            <element signature="e#262#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/js/solutions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
@@ -1091,8 +954,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="170">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#97#126#0" expanded="true" />
+            <element signature="e#262#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

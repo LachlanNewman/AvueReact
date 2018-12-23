@@ -42,7 +42,7 @@ const App = () => {
 				<Section data={TUTwork} hideTextTile={true}/>
 				<Section data={SCwork} hideTextTile={true}/>
 				<Contact id={'contact'} data={contact}/>
-				<Footer/>
+				{/*<Footer/>*/}
 			</main>
 		</div>
 	)

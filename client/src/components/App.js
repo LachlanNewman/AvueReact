@@ -1,6 +1,4 @@
 import React from 'react';
-import {BrowserRouter, Route} from "react-router-dom";
-
 
 //components
 import Banner from './Banner'
@@ -18,10 +16,10 @@ import {BSTwork, BPGwork, ADwork, TUTwork, SCwork} from '../js/work'
 
 
 const bannerImgs = [
-	'assets/images/Banner/Banner-resize.webp',
-	'assets/images/Banner/Banner_Melbourne-resize.webp',
-	'assets/images/Banner/Banner_Newcastle-resize.webp',
-	'assets/images/Banner/Banner_Sydney-resize.webp'
+	'assets/images/Banner/Banner-resize.jpg',
+	'assets/images/Banner/Banner_Melbourne-resize.jpg',
+	'assets/images/Banner/Banner_Newcastle-resize.jpg',
+	'assets/images/Banner/Banner_Sydney-resize.jpg'
 ]
 
 

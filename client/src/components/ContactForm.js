@@ -1,13 +1,12 @@
 import React from 'react';
-import axios from 'axios';
 import sgMail  from '@sendgrid/mail'
 class ContactForm extends React.Component {
 
 
 	state = {
-		name: null,
-		email: null,
-		content: null
+		name: '',
+		email: '',
+		content: ''
 	};
 
 	handleName = (e) => {

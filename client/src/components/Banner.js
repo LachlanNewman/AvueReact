@@ -6,10 +6,10 @@ import LazyLoad from 'react-lazy-load';
 class Banner extends React.Component {
 
 	renderBannerImgs = () => {
-		return this.props.bannerSrc.map(img => {
+		return this.props.bannerSrc.map((img,i) => {
 			return (
-				<LazyLoad>
-					<img src={img}/>
+				<LazyLoad key={i}>
+					<img src={img} alt={`Banner ${i}`}/>
 				</LazyLoad>
 			)
 		})

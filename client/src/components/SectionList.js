@@ -9,9 +9,9 @@ class SectionList extends React.Component {
 	renderList() {
 
 		return this.props.items.map((item, i) => {
-			const side = (i % 2 == 0) ? 'right' : 'left';
+			const side = (i % 2 === 0) ? 'right' : 'left';
 			return (
-				<LazyLoad >
+				<LazyLoad key={i}>
 					<FlipCard item={item} side={side} hideTextTile={this.props.hideTextTile}/>
 				</LazyLoad>
 			)

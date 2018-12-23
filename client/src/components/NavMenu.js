@@ -60,8 +60,7 @@ class NavMenu extends React.Component {
 					</div>
 					<BrowserRouter>
 					<div className={`nav-menu__menu ${showMenu}`}>
-						<Link exact
-						      className={'nav-menu__link home'}
+						<Link className={'nav-menu__link home'}
 						      to={'/#main'}
 						      scroll={el => this.scrollWithOffset(el)}>Home</Link>
 						<Link className={'nav-menu__link'}

@@ -135,7 +135,7 @@ export const TUTwork = {
 			title: 'Large Scale Technology Replacement',
 			subTitle: 'Major Retailer',
 			text: 'Business case and program to urgently address an increasing decline in business service levels resulting from failing technology assets across 1,100 locations.  The program included go-to-market for replacement equipment, rollout and migration planning, application testing and integration.'
-			, img: './assets/images/casestudies/CS12-Technologt_Transformation_49360603_m-2015.jpg'
+			, img: './assets/images/casestudies/CS13-Technology_Transformation_3190520_m-2015.jpg'
 
 		},
 		{
@@ -147,20 +147,13 @@ export const TUTwork = {
 			'submission to Victorian Cabinet. This was followed by the management of the ' +
 			'multi-year technology program for the establishment of four new office buildings, ' +
 			'staff relocation and two data centres.'
-			, img: './assets/images/casestudies/CS13-Technology_Transformation_3190520_m-2015.jpg'
+			, img: './assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg'
 
 		},
 		{
 			title: 'IT Transformation',
 			subTitle: 'Financial Services',
 			text: 'Accountability for the definition, mobilisation, governance and execution of the organisation’s highest priority IT initiatives over a 3 ½ year period. These included regulatory initiatives, customer facing systems, major corporate buildings, technology outsourcing and internal systems.'
-			, img: './assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg'
-
-		},
-		{
-			title: 'Cloud Computing Migration',
-			subTitle: 'Aged Care Provider',
-			text: 'An acquisition and growth strategy required the seamless migration of multiple duplicated business systems to an outsourced environment.'
 			, img: './assets/images/casestudies/CS15-Technology_Transformation_219534786_m-2015.jpg'
 
 		}

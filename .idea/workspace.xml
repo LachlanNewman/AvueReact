@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_m-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_s-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_xs-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_m-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_s-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_xs-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_l-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_m-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_s-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_xs-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Banner/Banner_Melbourne-3_5957389_l-2015-resize.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Banner/Banner_Newcastle_229094038_l-2015-resize.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Banner/Banner_Sydney_10065141_l-2015-resize.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/js/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/js/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/js/solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/js/solutions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,6 +21,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_altflipcard.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Banner.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,23 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/NavMenu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#97#126#0" expanded="true" />
                 <element signature="e#262#323#0" expanded="true" />
@@ -85,31 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contact.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/Contact.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AlternateFlipCard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/AlternateFlipCard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactForm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/ContactForm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="85">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -117,17 +85,35 @@
       <file leaf-file-name="work.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2771">
-              <caret line="163" column="23" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
+            <state relative-caret-position="244">
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/js/about.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
+            <state relative-caret-position="170">
+              <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipCard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/components/FlipCard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_flipcard.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/sass/components/_flipcard.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -150,6 +136,7 @@
       <find>plugins</find>
       <find>Coll</find>
       <find>Analyt</find>
+      <find>Transf</find>
       <find>_l-</find>
     </findStrings>
     <replaceStrings>
@@ -192,29 +179,29 @@
         <option value="$PROJECT_DIR$/client/src/components/WorkPage.js" />
         <option value="$PROJECT_DIR$/client/src/components/Section.js" />
         <option value="$PROJECT_DIR$/client/src/sass/base/_globals.scss" />
-        <option value="$PROJECT_DIR$/client/src/components/FlipCard.js" />
         <option value="$PROJECT_DIR$/client/src/js/helperFunctions.js" />
         <option value="$PROJECT_DIR$/client/src/components/HeaderSection.js" />
         <option value="$PROJECT_DIR$/client/src/sass/components/_navmenu.scss" />
         <option value="$PROJECT_DIR$/client/src/sass/base/_typography.scss" />
         <option value="$PROJECT_DIR$/client/src/sass/components/_footer.scss" />
         <option value="$PROJECT_DIR$/client/src/components/Footer.js" />
-        <option value="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" />
-        <option value="$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss" />
         <option value="$PROJECT_DIR$/client/src/sass/base/_variables.scss" />
         <option value="$PROJECT_DIR$/client/src/sass/components/_contactform.scss" />
         <option value="$PROJECT_DIR$/client/src/js/data.js" />
         <option value="$PROJECT_DIR$/client/src/js/service.js" />
         <option value="$PROJECT_DIR$/client/src/components/AlternateSectionList.js" />
         <option value="$PROJECT_DIR$/client/src/components/SectionList.js" />
-        <option value="$PROJECT_DIR$/client/src/components/AlternateFlipCard.js" />
         <option value="$PROJECT_DIR$/client/src/components/ContactForm.js" />
         <option value="$PROJECT_DIR$/client/src/components/NavMenu.js" />
         <option value="$PROJECT_DIR$/client/src/components/Banner.js" />
-        <option value="$PROJECT_DIR$/client/src/js/work.js" />
-        <option value="$PROJECT_DIR$/client/src/components/App.js" />
         <option value="$PROJECT_DIR$/client/src/js/solutions.js" />
         <option value="$PROJECT_DIR$/client/src/js/about.js" />
+        <option value="$PROJECT_DIR$/client/src/components/FlipCard.js" />
+        <option value="$PROJECT_DIR$/client/src/components/AlternateFlipCard.js" />
+        <option value="$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss" />
+        <option value="$PROJECT_DIR$/client/src/js/work.js" />
+        <option value="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" />
+        <option value="$PROJECT_DIR$/client/src/components/App.js" />
       </list>
     </option>
   </component>
@@ -341,6 +328,15 @@
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="Banner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -348,7 +344,29 @@
               <item name="avue" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avue" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
@@ -384,8 +402,8 @@
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lachn\WebstormProjects\React\avue\client\public\assets\images" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\client\public\assets\images\Banner" />
+      <recent name="C:\Users\lachn\WebstormProjects\React\avue\client\public\assets\images" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\css" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\images\casestudies" />
       <recent name="C:\Users\lachn\WebstormProjects\React\avue\public\assets\images\Banner" />
@@ -417,7 +435,7 @@
       <workItem from="1544856585668" duration="22843000" />
       <workItem from="1545134993119" duration="13541000" />
       <workItem from="1545275914762" duration="30778000" />
-      <workItem from="1545548204966" duration="7897000" />
+      <workItem from="1545548204966" duration="9680000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -615,14 +633,28 @@
       <option name="project" value="LOCAL" />
       <updated>1545554614071</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Change pictures back for Workflow, Transformation and Analytics.">
+      <created>1545630512014</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1545630512014</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Case Studies Sub Heading">
+      <created>1545631835048</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1545631835048</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108015000" />
+    <option name="totallyTimeSpent" value="109798000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29464287" />
@@ -695,7 +727,9 @@
     <MESSAGE value="Add  Objective to title" />
     <MESSAGE value="Remove Footer" />
     <MESSAGE value="Fix Automation Picture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Automation Picture" />
+    <MESSAGE value="Change pictures back for Workflow, Transformation and Analytics." />
+    <MESSAGE value="Case Studies Sub Heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case Studies Sub Heading" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -828,20 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/sass/components/_flipcard.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/FlipCard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/sass/base/_globals.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
@@ -853,13 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -914,13 +927,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/AlternateFlipCard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -940,38 +946,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-          <folding>
-            <element signature="e#97#126#0" expanded="true" />
-            <element signature="e#262#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/js/service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="163" column="23" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -984,8 +962,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/js/about.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
+        <state relative-caret-position="170">
+          <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/FlipCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/AlternateFlipCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/sass/components/_flipcard.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#97#126#0" expanded="true" />
+            <element signature="e#262#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

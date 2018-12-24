@@ -16,10 +16,9 @@ import {BSTwork, BPGwork, ADwork, TUTwork, SCwork} from '../js/work'
 
 
 const bannerImgs = [
-	'assets/images/Banner/Banner-resize.jpg',
-	'assets/images/Banner/Banner_Melbourne-resize.jpg',
-	'assets/images/Banner/Banner_Newcastle-resize.jpg',
-	'assets/images/Banner/Banner_Sydney-resize.jpg'
+	'assets/images/Banner/Banner_Melbourne-3_5957389_l-2015-resize.jpg',
+	'assets/images/Banner/Banner_Newcastle_229094038_l-2015-resize.jpg',
+	'assets/images/Banner/Banner_Sydney_10065141_l-2015-resize.jpg',
 ]
 
 

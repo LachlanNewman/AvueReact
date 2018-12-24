@@ -4,6 +4,9 @@
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/email.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="517">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -41,7 +44,7 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="194">
               <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
               <folding>
                 <element signature="e#97#126#0" expanded="true" />
@@ -209,6 +212,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -221,58 +225,7 @@
       <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
       <path value="$PROJECT_DIR$/node_modules/prop-types/package.json" />
       <path value="$PROJECT_DIR$/node_modules/react-lazy-load/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/accepts/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/array-flatten/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/body-parser/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/bytes/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/content-disposition/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/content-type/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/cookie-signature/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/cookie/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/destroy/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/ee-first/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/encodeurl/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/escape-html/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/etag/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/express/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/finalhandler/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/forwarded/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/fresh/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/http-errors/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/ipaddr.js/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/media-typer/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/merge-descriptors/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/methods/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/mime/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/negotiator/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/nodemailer/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/on-finished/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/parseurl/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/path-to-regexp/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/path/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/process/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/proxy-addr/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/range-parser/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/raw-body/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/safer-buffer/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/send/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/serve-static/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/statuses/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/type-is/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/unpipe/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/util/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/utils-merge/package.json" />
-      <path value="$PROJECT_DIR$/server/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -293,81 +246,6 @@
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="Banner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -431,7 +309,7 @@
       <workItem from="1544856585668" duration="22843000" />
       <workItem from="1545134993119" duration="13541000" />
       <workItem from="1545275914762" duration="30778000" />
-      <workItem from="1545548204966" duration="9924000" />
+      <workItem from="1545548204966" duration="10911000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -657,15 +535,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545632337546</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Logo Export as JPG">
+      <created>1545632496807</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1545632496807</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110042000" />
+    <option name="totallyTimeSpent" value="111029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29464287" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -714,7 +598,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Removed Scroll Horizontal" />
     <MESSAGE value="Mail Test" />
     <MESSAGE value="Lazy Load Images" />
     <MESSAGE value="Swap Contact Us Headers" />
@@ -739,7 +622,8 @@
     <MESSAGE value="Case Studies Sub Heading" />
     <MESSAGE value="large BAnner images" />
     <MESSAGE value="Remove Lazy Load From Banners" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Lazy Load From Banners" />
+    <MESSAGE value="Logo Export as JPG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logo Export as JPG" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1015,7 +899,7 @@
     <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -1024,7 +908,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="194">
           <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
           <folding>
             <element signature="e#97#126#0" expanded="true" />

@@ -29,7 +29,7 @@ const App = () => {
 			<main id={'main'}>
 				<Banner
 					title={'Achieving Business Outcomes'}
-					logoSrc={'./assets/images/Avue_White_Transparent.png'}
+					logoSrc={'./assets/images/Avue_White_Transparent.jpg'}
 					bannerSrc={bannerImgs}
 				/>
 				<Section id={'about'} data={about}/>

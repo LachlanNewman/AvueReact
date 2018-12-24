@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Banner/Banner_Melbourne-3_5957389_l-2015-resize.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Banner/Banner_Newcastle_229094038_l-2015-resize.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Banner/Banner_Sydney_10065141_l-2015-resize.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,8 +29,8 @@
       <file leaf-file-name="Banner.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="517">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -45,8 +41,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="272">
+              <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
               <folding>
                 <element signature="e#97#126#0" expanded="true" />
                 <element signature="e#262#323#0" expanded="true" />
@@ -193,7 +189,6 @@
         <option value="$PROJECT_DIR$/client/src/components/SectionList.js" />
         <option value="$PROJECT_DIR$/client/src/components/ContactForm.js" />
         <option value="$PROJECT_DIR$/client/src/components/NavMenu.js" />
-        <option value="$PROJECT_DIR$/client/src/components/Banner.js" />
         <option value="$PROJECT_DIR$/client/src/js/solutions.js" />
         <option value="$PROJECT_DIR$/client/src/js/about.js" />
         <option value="$PROJECT_DIR$/client/src/components/FlipCard.js" />
@@ -201,6 +196,7 @@
         <option value="$PROJECT_DIR$/client/src/sass/components/_altflipcard.scss" />
         <option value="$PROJECT_DIR$/client/src/js/work.js" />
         <option value="$PROJECT_DIR$/client/src/sass/components/_flipcard.scss" />
+        <option value="$PROJECT_DIR$/client/src/components/Banner.js" />
         <option value="$PROJECT_DIR$/client/src/components/App.js" />
       </list>
     </option>
@@ -435,7 +431,7 @@
       <workItem from="1544856585668" duration="22843000" />
       <workItem from="1545134993119" duration="13541000" />
       <workItem from="1545275914762" duration="30778000" />
-      <workItem from="1545548204966" duration="9680000" />
+      <workItem from="1545548204966" duration="9924000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -647,11 +643,25 @@
       <option name="project" value="LOCAL" />
       <updated>1545631835048</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="large BAnner images">
+      <created>1545632235730</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1545632235730</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Remove Lazy Load From Banners">
+      <created>1545632337546</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1545632337546</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109798000" />
+    <option name="totallyTimeSpent" value="110042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -704,8 +714,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Case Study Images" />
-    <MESSAGE value="Update To Data and NavMenu" />
     <MESSAGE value="Removed Scroll Horizontal" />
     <MESSAGE value="Mail Test" />
     <MESSAGE value="Lazy Load Images" />
@@ -729,7 +737,9 @@
     <MESSAGE value="Fix Automation Picture" />
     <MESSAGE value="Change pictures back for Workflow, Transformation and Analytics." />
     <MESSAGE value="Case Studies Sub Heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Case Studies Sub Heading" />
+    <MESSAGE value="large BAnner images" />
+    <MESSAGE value="Remove Lazy Load From Banners" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Lazy Load From Banners" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,8 +1014,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/Banner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="517">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -1014,8 +1024,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="272">
+          <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
           <folding>
             <element signature="e#97#126#0" expanded="true" />
             <element signature="e#262#323#0" expanded="true" />

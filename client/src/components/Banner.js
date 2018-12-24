@@ -8,9 +8,9 @@ class Banner extends React.Component {
 	renderBannerImgs = () => {
 		return this.props.bannerSrc.map((img,i) => {
 			return (
-				<LazyLoad key={i}>
+				<div key={i}>
 					<img src={img} alt={`Banner ${i}`}/>
-				</LazyLoad>
+				</div>
 			)
 		})
 	}

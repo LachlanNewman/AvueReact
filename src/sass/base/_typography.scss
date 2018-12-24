@@ -1,0 +1,60 @@
+/* Created : 14:22 11/12/2018
+   Created By : lachn
+   __typography - OPEN
+*/
+
+h1, h2, h3, h4, h5, h6 {
+      font-weight: 100;
+}
+
+h1 {
+      letter-spacing: .3em;
+      font-size: 3.5vw;
+      font-weight: 100;
+}
+
+h2 {
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      font-size: 16px;
+      @include breakpoint(phablet) {
+            font-size: 23px;
+      }
+}
+
+h3 {
+      line-height: 1.4em;
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: 0.25em;
+      @include breakpoint(phablet) {
+            font-size: 19px;
+            line-height: 2.75;
+      }
+}
+
+h4 {
+      font-weight: 100;
+      line-height: 1.4em;
+      font-size: 13px;
+      @include breakpoint(phablet) {
+            font-size: 16px;
+      }
+}
+
+h5 {
+      font-size: 1.1em;
+      line-height: 2.2;
+      letter-spacing: .4em;
+      text-transform: uppercase;
+}
+
+h6 {
+      line-height: 2.75;
+      font-size: 12px;
+}
+
+p{
+      font-size: 13px;
+}
+/* __typography - CLOSE */

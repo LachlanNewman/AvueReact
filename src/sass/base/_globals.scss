@@ -1,0 +1,86 @@
+/* Created : 15:34 11/12/2018
+   Created By : lachn
+   __globals - OPEN
+*/
+
+*{
+      font-family: 'Muli', sans-serif;
+}
+
+body {
+      margin: 0;
+}
+
+main {
+      padding-top: 60px;
+      overflow: hidden;
+}
+
+.show-menu + main{
+      padding-top: 160px;
+}
+
+.desktop-only {
+      @media(max-width: ($breakpoint__size--xs - 1)) {
+            display: none !important;
+      }
+}
+
+.mobile-only {
+      @media(min-width: $breakpoint__size--xs) {
+            display: none !important;
+      }
+}
+
+.heading-section {
+      text-align: center;
+      padding: 60px $page-margin-mobile 10px $page-margin-mobile;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      @include breakpoint(phablet){
+            padding: 90px $page-margin 20px $page-margin;
+      }
+}
+
+.section-list{
+      &.flex{
+            display: flex;
+            flex-wrap: wrap;
+
+            & > div{
+                  width: 100%;
+                  @include breakpoint(mobileonly){
+                        width: 50%;
+                  }
+            }
+
+      }
+}
+
+input, textarea{
+      width: 100%;
+      border: 1px solid $color__blue--light;
+      border-radius: 3px;
+      padding: 5px 10px;
+      box-sizing: border-box;
+}
+
+input,button{
+      height: 30px;
+}
+
+textarea{
+      height: 100px;
+}
+
+button{
+      width: 200px;
+      background-color: $color__blue--light;
+      border: 1px solid $color__blue--light;
+      border-radius: 3px;
+      &:active{
+      }
+}
+
+/* __globals - CLOSE */

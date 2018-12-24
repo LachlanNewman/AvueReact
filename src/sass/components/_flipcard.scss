@@ -1,0 +1,156 @@
+/* Created : 23:32 14/12/2018
+   Created By : lachn
+   _flipcard - OPEN
+*/
+
+.flip-card {
+      $id: &;
+      $background-overlay: rgba(0, 0, 0, 0.5);
+
+
+      background-color: black;
+      width: 100%;
+      perspective: 1000px;
+      display: flex;
+      height: 250px;
+      border: 1px solid $color__white;
+      @include breakpoint(phablet) {
+            height: 300px;
+      }
+      @include breakpoint(tablet) {
+            height: 400px;
+      }
+
+      &--left {
+            #{$id}__image {
+                  order: 2;
+            }
+
+            #{$id}__inner {
+                  order: 1
+            }
+      }
+
+      &__image {
+            display: none;
+            @include breakpoint(mobileonly) {
+                  display: initial;
+                  width: 50%;
+                  height: 100%;
+                  background-size: cover;
+                  background-position: center;
+                  background-repeat: no-repeat;
+            }
+
+      }
+
+      &__content {
+            width: 100%;
+            @include breakpoint(mobileonly) {
+                  width: 50%;
+            }
+      }
+
+      &__inner {
+            position: relative;
+            height: 100%;
+            transition: transform 2000ms;
+            transform-style: preserve-3d;
+            width: 100%;
+            border: 1px solid $color__white;
+            @include breakpoint(mobileonly) {
+                  border: none;
+                  text-align: left;
+            }
+
+            h2 {
+                  color: $color__white;
+            }
+            h4, p {
+                  color: $color__blue--light
+            }
+            h2, h4 {
+                  text-transform: uppercase;
+            }
+      }
+
+      &__content:hover &__inner {
+            transform: rotateY(180deg);
+      }
+      &__front, &__back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            background-color: $color__purple;
+            box-sizing: border-box;
+            @include center-content;
+            padding: 0 $page-margin-mobile;
+            @include breakpoint(phablet) {
+                  padding: 0 $page-margin;
+            }
+      }
+
+      &__front {
+            background-size: cover;
+            background-position: center;
+            @include max-breakpoint(mobileonly) {
+                  padding: 0;
+            }
+            @include breakpoint(mobileonly) {
+                  &:not(.show-image) {
+                        background-image: none !important;
+                  }
+            }
+      }
+
+      &__back {
+            transform: rotateY(180deg);
+            flex-direction: column;
+      }
+
+      &__overlay {
+            width: 100%;
+            height: 100%;
+            flex-direction: column;
+            display: flex;
+            justify-content: center;
+            background-color: $background-overlay;
+            padding: 0 $page-margin-mobile;
+            @include breakpoint(mobileonly) {
+                  background-color: transparent;
+                  padding: 0;
+            }
+
+      }
+
+      &--hide-img {
+
+            #{$id}__image {
+                  display: none;
+            }
+
+            #{$id}__content{
+                  width: 100%;
+            }
+
+            #{$id}__inner {
+                  width: 100%;
+            }
+
+            #{$id}__overlay {
+                  background-color: $background-overlay;
+                  padding: 0 $page-margin-mobile;
+                  @include breakpoint(phablet) {
+                        padding: 0 $page-margin;
+                  }
+            }
+
+            #{$id}__front{
+                  padding: 0;
+            }
+
+      }
+}
+
+/* _flipcard - CLOSE */

@@ -1,0 +1,15 @@
+/* Created : 21:25 15/12/2018
+   Created By : lachn
+   _footer - OPEN
+*/
+
+footer{
+      background-color: $color__blue--dark;
+      color: $color__white;
+      padding: 0 $page-margin-mobile;
+      @include breakpoint(phablet) {
+            padding: 0 $page-margin;
+      }
+}
+
+/* _footer - CLOSE */

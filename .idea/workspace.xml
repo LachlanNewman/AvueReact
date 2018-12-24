@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_l-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_m-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_s-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/CS11b_Application_Development_50323141_xs-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_l-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_m-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_s-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Transformation_171315188_xs-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_l-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_m-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_s-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/images/Workflow_108448600_xs-2015.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/js/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/js/about.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/js/solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/js/solutions.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/client/src/components/NavMenu.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="63" column="67" lean-forward="true" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
+              <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -45,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="279">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding>
                 <element signature="e#97#126#0" expanded="true" />
                 <element signature="e#262#323#0" expanded="true" />
@@ -54,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solutions.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="solutions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/js/solutions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+            <state relative-caret-position="17">
+              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/js/service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -92,32 +114,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SectionList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/SectionList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="work.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2771">
-              <caret line="163" column="23" lean-forward="true" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
+              <caret line="163" column="23" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/js/about.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="97" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
+            <state relative-caret-position="247">
+              <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -202,9 +212,9 @@
         <option value="$PROJECT_DIR$/client/src/components/NavMenu.js" />
         <option value="$PROJECT_DIR$/client/src/components/Banner.js" />
         <option value="$PROJECT_DIR$/client/src/js/work.js" />
-        <option value="$PROJECT_DIR$/client/src/js/about.js" />
         <option value="$PROJECT_DIR$/client/src/components/App.js" />
         <option value="$PROJECT_DIR$/client/src/js/solutions.js" />
+        <option value="$PROJECT_DIR$/client/src/js/about.js" />
       </list>
     </option>
   </component>
@@ -331,40 +341,7 @@
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
               <item name="avue" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="Banner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="casestudies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
@@ -372,29 +349,6 @@
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avue" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="avue" type="b2602c69:ProjectViewProjectNode" />
@@ -463,7 +417,7 @@
       <workItem from="1544856585668" duration="22843000" />
       <workItem from="1545134993119" duration="13541000" />
       <workItem from="1545275914762" duration="30778000" />
-      <workItem from="1545548204966" duration="5838000" />
+      <workItem from="1545548204966" duration="7897000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -654,14 +608,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545554525347</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Fix Automation Picture">
+      <created>1545554614071</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1545554614071</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105956000" />
+    <option name="totallyTimeSpent" value="108015000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29464287" />
@@ -733,7 +694,8 @@
     <MESSAGE value="Remove Duplicate Case Studies" />
     <MESSAGE value="Add  Objective to title" />
     <MESSAGE value="Remove Footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Footer" />
+    <MESSAGE value="Fix Automation Picture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Automation Picture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -915,13 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/js/service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/Section.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -969,7 +924,7 @@
     <entry file="file://$PROJECT_DIR$/client/src/components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="63" column="67" lean-forward="true" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
+          <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -995,24 +950,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="163" column="23" lean-forward="true" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/js/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="97" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding>
             <element signature="e#97#126#0" expanded="true" />
             <element signature="e#262#323#0" expanded="true" />
@@ -1020,10 +961,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/js/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/js/work.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="163" column="23" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/js/solutions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+        <state relative-caret-position="17">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/js/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
         </state>
       </provider>
     </entry>

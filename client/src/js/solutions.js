@@ -25,8 +25,7 @@ const solutions = {
 			'interaction.  Our people and partners are well versed in the business process and technology ' +
 			'required to unlock the information potential and benefits from the data your organisation already ' +
 			'possesses.  ',
-			img: './assets/images/Analytics-2_63897797_m-2015.jpg',
-
+			img: './assets/images/Analytics_129205082_m-2015.jpg',
 		},
 		{
 			id: 2,
@@ -62,7 +61,7 @@ const solutions = {
 			'the first step to automation,  however just because it can be automated does not mean it ' +
 			'should be, our experts have the experience and technical know how to deliver effective ' +
 			'workflow in support of a manual, semi-manual or automated business process.',
-			img: './assets/images/Workflow-2_11222461_m-2015.jpg',
+			img: './assets/images/Workflow_108448600_m-2015.jpg',
 		},
 		{
 			id: 5,

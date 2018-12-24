@@ -34,7 +34,7 @@ const about = {
 			'organisational demands. We understand the complexity of organisational change, and although our ' +
 			'capability is well advanced, we leverage our partners to bring together the industry experts and ' +
 			'the best resources to a particular engagement. ',
-			img: './assets/images/Transformation-2_228156392_m-2015.jpg',
+			img: './assets/images/Transformation_171315188_m-2015.jpg',
 		},
 		{
 			id: 3,

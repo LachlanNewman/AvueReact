@@ -1,7 +1,7 @@
 export const BSTwork = {
 	header: {
 		title: 'Business Systems Transformation',
-		subTitle: ''
+		subTitle: 'Case Studies'
 	},
 	items: [
 		{
@@ -53,7 +53,7 @@ export const BSTwork = {
 export const BPGwork = {
 	header: {
 		title: 'Business Process and Governance',
-		subTitle: ''
+		subTitle: 'Case Studies'
 	},
 	items: [
 		{
@@ -90,7 +90,7 @@ export const BPGwork = {
 export const ADwork = {
 	header: {
 		title: 'Application Development',
-		subTitle: ''
+		subTitle: 'Case Studies'
 	},
 	items: [
 		{
@@ -117,7 +117,7 @@ export const ADwork = {
 export const TUTwork = {
 	header: {
 		title: 'Technology Uplift and Transformation',
-		subTitle: ''
+		subTitle: 'Case Studies'
 	},
 	items: [
 		{
@@ -164,7 +164,7 @@ export const TUTwork = {
 export const SCwork = {
 	header: {
 		title: 'Staff Communications',
-		subTitle: ''
+		subTitle: 'Case Studies'
 	},
 	items: [
 		{

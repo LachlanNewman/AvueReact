@@ -4,9 +4,11 @@
 */
 
 .contact-form{
-      padding: 0 $page-margin-mobile $page-margin-mobile $page-margin-mobile;
+      background-color: $color__grey--dark;
+      padding: $page-margin-mobile;
+      color: $color__white;
       @include breakpoint(phablet) {
-            padding: 0 $page-margin $page-margin $page-margin;
+            padding: $page-margin;
       }
       &__row{
             margin-bottom: $global__input--margin;

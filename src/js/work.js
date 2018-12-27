@@ -110,6 +110,12 @@ export const ADwork = {
 			text: 'Remediation of the in-flight annual systems upgrade project for the mission critical SWIFT inter-bank transaction system.  Critical cutover and migration dates were achieved through applying: governance, management, alignment of infrastructure and software projects, risk mitigation, controlled migration and roll-back planning.',
 			img: './assets/images/casestudies/CS11_Application_Development_11915805_m-2015.jpg'
 
+		},
+		{
+			title: 'Travel',
+			text: 'TBA',
+			img: './assets/images/casestudies/CS11b_Application_Development_50323141_m-2015.jpg'
+
 		}
 	]
 }
@@ -121,21 +127,10 @@ export const TUTwork = {
 	},
 	items: [
 		{
-			title: 'Virtual Chief Information Officer',
-			subTitle: 'Financial Services',
-			text: 'CIO supporting the venture capital purchase and incoming appointed C-level executives.  Accountable for IT Strategy, transformation, capability uplift and staff augmentation.  This included ongoing management and delivery of four critical programs:\n' +
-			'- Information Security Strategy delivering rapid uplift in data protection (3 phases over 3 years).\n' +
-			'- Telecommunications program achieving annual recurring savings in excess of $1m.\n' +
-			'- A rapid data centre migration to improve application stability and individually migrate 200 clients using B2B services.\n' +
-			'- Data Centre Migration to improve application stability, scalability, security and disaster recovery.'
+			title: 'Information Technology Strategy',
+			subTitle: '',
+			text: 'The implementation of an all encompassing security strategy protecting personal and corporate information. The  multi-million dollar program delivered a rapid uplift in data protection (3 phases over 2 years).  It addressed immediate vulnerabilities, implemented defence in depth, and achieved ongoing awareness and visibility. Multiple business and customer facing systems were protected across in-house, outsourced and cloud environments.\n'
 			, img: './assets/images/casestudies/CS12-Technologt_Transformation_49360603_m-2015.jpg'
-
-		},
-		{
-			title: 'Large Scale Technology Replacement',
-			subTitle: 'Major Retailer',
-			text: 'Business case and program to urgently address an increasing decline in business service levels resulting from failing technology assets across 1,100 locations.  The program included go-to-market for replacement equipment, rollout and migration planning, application testing and integration.'
-			, img: './assets/images/casestudies/CS13-Technology_Transformation_3190520_m-2015.jpg'
 
 		},
 		{
@@ -146,14 +141,21 @@ export const TUTwork = {
 			'business case, program scope and budgets, as supporting input to Deloitte for ' +
 			'submission to Victorian Cabinet. This was followed by the management of the ' +
 			'multi-year technology program for the establishment of four new office buildings, ' +
-			'staff relocation and two data centres.'
-			, img: './assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg'
+			'staff relocation and two data centres.',
+			img: './assets/images/casestudies/CS13-Technology_Transformation_3190520_m-2015.jpg'
 
 		},
 		{
 			title: 'IT Transformation',
 			subTitle: 'Financial Services',
 			text: 'Accountability for the definition, mobilisation, governance and execution of the organisation’s highest priority IT initiatives over a 3 ½ year period. These included regulatory initiatives, customer facing systems, major corporate buildings, technology outsourcing and internal systems.'
+			, img: './assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg'
+
+		},
+		{
+			title: 'CLOUD COMPUTING MIGRATION',
+			subTitle: 'AGED CARE PROVIDER',
+			text: 'An acquisition and growth strategy required the seamless migration of multiple duplicated business systems to an outsourced environment.'
 			, img: './assets/images/casestudies/CS15-Technology_Transformation_219534786_m-2015.jpg'
 
 		}
@@ -189,9 +191,9 @@ export const SCwork = {
 
 		},
 		{
-			title: 'IT Transformation',
-			subTitle: 'Financial Services',
-			text: 'Digital media strategy to address senior executive internal communications requirements, assessing the current environment and defining the strategy and roadmap for delivery of on-demand corporate video communication to staff at 350+ locations. ',
+			title: 'CS20',
+			subTitle: 'TBA',
+			text: 'TBA',
 			img: './assets/images/casestudies/CS19-Staff_Communication_12030228_m-2015.jpg'
 
 		}

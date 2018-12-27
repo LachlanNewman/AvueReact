@@ -11,9 +11,9 @@ class AlternateSectionList extends React.Component {
 		return this.props.items.map((item, i) => {
 			const color = colors[i % 3];
 			return (
-				<LazyLoad key={i}>
+				<div key={i}>
 					<AlternateFlipCard item={item} color={color}/>
-				</LazyLoad>
+				</div>
 			)
 		})
 	}

@@ -25,7 +25,7 @@ const bannerImgs = [
 const App = () => {
 	return (
 		<div>
-			<NavMenu/>
+			{/*<NavMenu/>*/}
 			<main id={'main'}>
 				<Banner
 					title={'Achieving Business Outcomes'}

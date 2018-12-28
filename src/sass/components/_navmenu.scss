@@ -10,9 +10,11 @@
       height: 60px;
       z-index: 1000;
       overflow: hidden;
-      transition: height ease 1s;
-      &.show-menu{
-            height: 270px;
+      @include max-breakpoint(phablet) {
+            transition: height ease 1s;
+            &.show-menu {
+                  height: 270px;
+            }
       }
 
       &__container {
@@ -46,16 +48,15 @@
             box-sizing: border-box;
             overflow: hidden;
             transition: all ease 0.6ms;
-            display: none;
             display: flex;
             margin-top: 14px;
             @include breakpoint(phablet) {
+                  margin-top: 0;
                   align-items: flex-end;
                   flex-direction: row;
                   height: 100% !important;
                   padding-bottom: 12px;
                   box-sizing: border-box;
-                  display: flex !important;
             }
       }
 

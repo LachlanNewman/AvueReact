@@ -14,9 +14,11 @@ body {
 main {
       padding-top: 60px;
       overflow: hidden;
-      transition: padding-top ease 1s;
-      &.show-menu{
-            padding-top: 270px;
+      @include max-breakpoint(phablet) {
+            transition: padding-top ease 1s;
+            &.show-menu {
+                  padding-top: 270px;
+            }
       }
 }
 

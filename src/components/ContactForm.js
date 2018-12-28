@@ -23,10 +23,9 @@ class ContactForm extends React.Component {
 
 	sendEmail = (e) => {
 		e.preventDefault();
-		console.log(process.env.REACT_APP_SENDGRID_API);
 		sgMail.setApiKey(process.env.REACT_APP_SENDGRID_API);
 		const msg = {
-			to: 'lachnewman007@gmail.com',
+			to: 'contactus@avue.com.au',
 			from: `${this.state.name} <${this.state.email}>`,
 			subject: 'AVUE CONTACT SUBMISSION',
 			text: this.state.content,

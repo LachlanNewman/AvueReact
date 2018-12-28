@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4552d1-809d-454f-99c1-b9d209301e66" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ContactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactForm.js" afterDir="false" />
     </list>
@@ -53,8 +52,8 @@
       <file leaf-file-name="ContactForm.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/ContactForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="119">
+              <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -66,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="57" selection-start-column="57" selection-end-column="57" />
+              <caret column="48" selection-start-column="48" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -191,8 +190,8 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/js/work.js" />
         <option value="$PROJECT_DIR$/src/js/service.js" />
-        <option value="$PROJECT_DIR$/src/components/ContactForm.js" />
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/components/ContactForm.js" />
       </list>
     </option>
   </component>
@@ -347,7 +346,7 @@
       <workItem from="1545134993119" duration="13541000" />
       <workItem from="1545275914762" duration="30778000" />
       <workItem from="1545548204966" duration="10911000" />
-      <workItem from="1545634531197" duration="9894000" />
+      <workItem from="1545634531197" duration="10394000" />
     </task>
     <task id="LOCAL-00001" summary="Case Study Images">
       <created>1545195178178</created>
@@ -650,11 +649,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545968281032</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="SendGrid Push">
+      <created>1545969057334</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1545969057334</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120923000" />
+    <option name="totallyTimeSpent" value="121423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -707,7 +713,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Large Images for Solutions" />
     <MESSAGE value="Test Removal of banner" />
     <MESSAGE value="Medium Image Sizes" />
     <MESSAGE value="Sevice Images Medium" />
@@ -732,7 +737,8 @@
     <MESSAGE value="Padding for Nav bar Responsive" />
     <MESSAGE value="Meta Description" />
     <MESSAGE value="Update to data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update to data" />
+    <MESSAGE value="SendGrid Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="SendGrid Push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1049,15 +1055,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/solutions.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data/about.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/solutions.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data/service.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1068,8 +1074,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/ContactForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="119">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -1079,7 +1085,7 @@
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="57" selection-start-column="57" selection-end-column="57" />
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
         </state>
       </provider>
     </entry>

@@ -8,11 +8,11 @@ import Contact from "./Contact";
 import Footer from './Footer'
 
 //data
-import {contact} from '../js/data'
-import about from '../js/about'
-import solutions from '../js/solutions'
-import service from '../js/service'
-import {BSTwork, BPGwork, ADwork, TUTwork, SCwork} from '../js/work'
+import {contact} from '../data/data'
+import about from '../data/about'
+import solutions from '../data/solutions'
+import service from '../data/service'
+import {BSTwork, BPGwork, ADwork, TUTwork, SCwork} from '../data/work'
 
 
 const bannerImgs = [

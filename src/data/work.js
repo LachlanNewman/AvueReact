@@ -142,21 +142,24 @@ export const TUTwork = {
 			'submission to Victorian Cabinet. This was followed by the management of the ' +
 			'multi-year technology program for the establishment of four new office buildings, ' +
 			'staff relocation and two data centres.',
-			img: './assets/images/casestudies/CS13-Technology_Transformation_3190520_m-2015.jpg'
+			// img: './assets/images/casestudies/CS13-Technology_Transformation_3190520_m-2015.jpg'
+			img: './assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg'
+
 
 		},
 		{
 			title: 'IT Transformation',
 			subTitle: 'Financial Services',
 			text: 'Accountability for the definition, mobilisation, governance and execution of the organisation’s highest priority IT initiatives over a 3 ½ year period. These included regulatory initiatives, customer facing systems, major corporate buildings, technology outsourcing and internal systems.'
-			, img: './assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg'
+			// , img: './assets/images/casestudies/CS14-Technology_Transformation_6014864_m-2015.jpg'
+			, img: './assets/images/casestudies/CS15-Technology_Transformation_219534786_m-2015.jpg'
 
 		},
 		{
 			title: 'CLOUD COMPUTING MIGRATION',
 			subTitle: 'AGED CARE PROVIDER',
 			text: 'An acquisition and growth strategy required the seamless migration of multiple duplicated business systems to an outsourced environment.'
-			, img: './assets/images/casestudies/CS15-Technology_Transformation_219534786_m-2015.jpg'
+			,img: './assets/images/casestudies/CS16-Technology_Transformation_42317637_m-2015.jpg'
 
 		}
 	]
@@ -173,21 +176,24 @@ export const SCwork = {
 			title: 'Training Academy',
 			subTitle: 'Financial Services',
 			text: 'Alignment of business requirements to audio visual technologies for the implementation of a flagship training facility.  Achieving a balance between practicality, training and atmosphere impact requirements.'
-			, img: './assets/images/casestudies/CS16-Technology_Transformation_42317637_m-2015.jpg'
+			// , img: './assets/images/casestudies/CS16-Technology_Transformation_42317637_m-2015.jpg'
+			, img: './assets/images/casestudies/CS17-Staff_Communications_14050132_m-2015.jpg'
 
 		},
 		{
 			title: 'Unified Communication Strategy',
 			subTitle: 'University',
 			text: 'Review of the internal communications requirements of all faculties, staff and students, followed by an assessment of the current state of IT infrastructure and definition of the multi-year roadmap to achieve a unified environment. '
-			, img: './assets/images/casestudies/CS17-Staff_Communications_14050132_m-2015.jpg'
+			// , img: './assets/images/casestudies/CS17-Staff_Communications_14050132_m-2015.jpg'
+			, img: './assets/images/casestudies/CS18-Staff_Communication_115363888_m-2015.jpg'
 
 		},
 		{
 			title: 'Staff Communication Strategy',
 			subTitle: 'Financial Services',
 			text: 'Digital media strategy to address senior executive internal communications requirements, assessing the current environment and defining the strategy and roadmap for delivery of on-demand corporate video communication to staff at 350+ locations. '
-			, img: './assets/images/casestudies/CS18-Staff_Communication_115363888_m-2015.jpg'
+			// , img: './assets/images/casestudies/CS18-Staff_Communication_115363888_m-2015.jpg'
+			,img: './assets/images/casestudies/CS19-Staff_Communication_12030228_m-2015.jpg'
 
 		},
 		{

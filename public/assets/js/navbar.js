@@ -4,7 +4,7 @@ $(function () {
 		$('#nav').removeClass('show-menu');
 		$('#main').removeClass('show-menu');
 		$("html, body").animate({
-			scrollTop: $(id).offset().top
+			scrollTop: $(id).offset().top - 270
 		}, 2000);
 	})
 	

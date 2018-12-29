@@ -5,7 +5,7 @@ import HeaderSection from './HeaderSection'
 import SectionList from './SectionList'
 import AlternateSectionList from "./AlternateSectionList";
 
-const Section = ({id, data,hideTextTile}) => {
+const Section = ({id, data,hideTextTile,noFlip}) => {
 
 	if (id === 'solutions') {
 		return (
@@ -19,7 +19,7 @@ const Section = ({id, data,hideTextTile}) => {
 		return (
 			<section id={id}>
 				<HeaderSection header={data.header}/>
-				<SectionList items={data.items} hideTextTile={hideTextTile}/>
+				<SectionList items={data.items} hideTextTile={hideTextTile} noFlip={noFlip}/>
 			</section>
 		);
 	}

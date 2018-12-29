@@ -74,7 +74,7 @@
             }
       }
 
-      &__content:hover &__inner {
+      &__content:hover &__inner:not(.no-flip) {
             transform: rotateY(180deg);
       }
       &__front, &__back {

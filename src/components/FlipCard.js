@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FlipCard = ({item, side, hideTextTile}) => {
+const FlipCard = ({item, side, hideTextTile,noFlip}) => {
 
 	const flipCardImg = (
 		<div className={`flip-card__image`} style={{backgroundImage: `url(${item.img})`}}>
@@ -13,7 +13,7 @@ const FlipCard = ({item, side, hideTextTile}) => {
 				hideTextTile ? '' : flipCardImg
 			}
 			<div className={`flip-card__content`}>
-				<div className={`flip-card__inner`}>
+				<div className={`flip-card__inner ${noFlip ? 'no-flip': ''}`}>
 					<div className={`flip-card__front ${hideTextTile ? 'show-image' : ''}`}
 					     style={{backgroundImage: `url(${item.img})`}}>
 						<div className={`flip-card__overlay`}>

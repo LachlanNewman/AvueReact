@@ -34,7 +34,7 @@ const App = () => {
 				/>
 				<Section id={'about'} data={about}/>
 				<Section id={'solutions'} data={solutions}/>
-				<Section id={'services'} data={service}/>
+				<Section id={'services'} data={service} noFlip={true}/>
 				<Section id={'work'} data={BSTwork} hideTextTile={true}/>
 				<Section data={BPGwork} hideTextTile={true}/>
 				<Section data={ADwork} hideTextTile={true}/>

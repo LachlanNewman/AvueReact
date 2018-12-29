@@ -12,7 +12,7 @@ class SectionList extends React.Component {
 			const side = (i % 2 === 0) ? 'right' : 'left';
 			return (
 				<div key={i}>
-					<FlipCard item={item} side={side} hideTextTile={this.props.hideTextTile}/>
+					<FlipCard item={item} side={side} hideTextTile={this.props.hideTextTile} noFlip={this.props.noFlip}/>
 				</div>
 			)
 		})

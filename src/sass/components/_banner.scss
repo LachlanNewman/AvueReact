@@ -13,7 +13,7 @@
             align-items: center;
             padding: 11px $page-margin-mobile;
             @include breakpoint(phablet) {
-                  padding: 11px 3em;
+                  padding: 11px ($page-margin - 8);
             }
 
             #{$id}__site-logo{

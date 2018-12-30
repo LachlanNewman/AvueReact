@@ -23,8 +23,9 @@ class ContactForm extends React.Component {
 
 	sendEmail = (e) => {
 		e.preventDefault();
-		console.log(process.env.REACT_APP_SENDGRID_API)
+
 		sgMail.setApiKey(process.env.REACT_APP_SENDGRID_API);
+
 		const msg = {
 			to: 'contactus@avue.com.au',
 			from: `${this.state.name} <${this.state.email}>`,
@@ -32,11 +33,13 @@ class ContactForm extends React.Component {
 			text: this.state.content,
 			html: this.state.content,
 		};
+
 		sgMail.send(msg);
+
 		this.setState({
-			name: null,
-			email: null,
-			content: null
+			name: '',
+			email: '',
+			content: ''
 		})
 	}
 

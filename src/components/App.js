@@ -23,7 +23,6 @@ const bannerImgs = [
 const App = () => {
 	return (
 		<div>
-			{/*<NavMenu/>*/}
 			<main id={'main'}>
 				<Banner
 					title={'Achieving Business Outcomes'}
@@ -39,7 +38,6 @@ const App = () => {
 				<Section data={TUTwork} hideTextTile={true}/>
 				<Section data={SCwork} hideTextTile={true}/>
 				<Contact id={'contact'} data={contact}/>
-				{/*<Footer/>*/}
 			</main>
 		</div>
 	)

@@ -7,6 +7,7 @@
       background-color: $color__grey--dark;
       padding: $page-margin-mobile;
       color: $color__white;
+      position: relative;
       @include breakpoint(phablet) {
             padding: $page-margin;
       }

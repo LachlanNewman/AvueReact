@@ -3,9 +3,7 @@ import React from 'react';
 //components
 import Banner from './Banner'
 import Section from './Section'
-import NavMenu from './NavMenu'
 import Contact from "./Contact";
-import Footer from './Footer'
 
 //data
 import {contact} from '../data/data'

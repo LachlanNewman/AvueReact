@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var uglify = require('gulp-uglify');
 var concat = require('gulp-concat');
 
-// create a default task and just log a message
+// Task which minifys js files and concats them to all.js
 gulp.task('scripts', function () {
 	return gulp.src('./assets/js/**/*.js')
 	// Minify the file

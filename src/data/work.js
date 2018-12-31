@@ -176,7 +176,6 @@ export const SCwork = {
 			title: 'Training Academy',
 			subTitle: 'Financial Services',
 			text: 'Alignment of business requirements to audio visual technologies for the implementation of a flagship training facility.  Achieving a balance between practicality, training and atmosphere impact requirements.'
-			// , img: './assets/images/casestudies/CS16-Technology_Transformation_42317637_m-2015.jpg'
 			, img: './assets/images/casestudies/CS17-Staff_Communications_14050132_m-2015.jpg'
 
 		},
@@ -184,7 +183,6 @@ export const SCwork = {
 			title: 'Unified Communication Strategy',
 			subTitle: 'University',
 			text: 'Review of the internal communications requirements of all faculties, staff and students, followed by an assessment of the current state of IT infrastructure and definition of the multi-year roadmap to achieve a unified environment. '
-			// , img: './assets/images/casestudies/CS17-Staff_Communications_14050132_m-2015.jpg'
 			, img: './assets/images/casestudies/CS18-Staff_Communication_115363888_m-2015.jpg'
 
 		},
@@ -192,7 +190,6 @@ export const SCwork = {
 			title: 'Staff Communication Strategy',
 			subTitle: 'Financial Services',
 			text: 'Digital media strategy to address senior executive internal communications requirements, assessing the current environment and defining the strategy and roadmap for delivery of on-demand corporate video communication to staff at 350+ locations. '
-			// , img: './assets/images/casestudies/CS18-Staff_Communication_115363888_m-2015.jpg'
 			,img: './assets/images/casestudies/CS19-Staff_Communication_12030228_m-2015.jpg'
 
 		},

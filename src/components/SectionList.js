@@ -1,5 +1,5 @@
 import React from 'react';
-import LazyLoad from 'react-lazy-load';
+
 
 //components
 import FlipCard from './FlipCard'
